@@ -31,8 +31,12 @@ Conoce a nuestros [ponentes](speakers.md) e invitados especiales.
 ## Organiza
 
 <div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap">
-	<img src="assets/images/logo-global-ai.png" alt="Global AI Community" style="height:64px" />
-	<img src="assets/images/global-ai-leon.png" alt="Global AI León (Capítulo local)" style="height:64px" />
+	<a href="https://globalai.community/" aria-label="Global AI Community (abrir sitio)">
+		<img src="assets/images/logo-global-ai.png" alt="Global AI Community" style="height:64px" />
+	</a>
+	<a href="https://globalai.community/chapters/leon/" aria-label="Global AI León (abrir capítulo)">
+		<img src="assets/images/global-ai-leon.png" alt="Global AI León (Capítulo local)" style="height:64px" />
+	</a>
   
 </div>
 

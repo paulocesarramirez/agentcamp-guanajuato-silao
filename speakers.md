@@ -9,28 +9,56 @@ permalink: /speakers.html
 Perfiles confirmados para el AgentCamp Guanajuato 2026 en Silao.
 
 ## Paulo César Ramírez Silva
-- ![Foto de Paulo César Ramírez](assets/images/speaker-paulo-ramirez.jpg)
-- Organizador (Capítulo León, Global AI Community)
-- Sitios: [EmprendHEC](https://www.emprendhec.com) · [Tutor-IA](https://tutor-ia.tech)
-- LinkedIn: [paulocesarramirezs](https://www.linkedin.com/in/paulocesarramirezs/)
-- Sesiones: Bienvenida e intervención en sesiones ejecutivas.
+<div class="speaker-card">
+	<img src="assets/images/speaker-paulo-ramirez.jpg" alt="Foto de Paulo César Ramírez" />
+	<div class="speaker-details">
+		<ul>
+			<li>Organizador (Capítulo León, Global AI Community)</li>
+			<li>Sitios: <a href="https://www.emprendhec.com">EmprendHEC</a> · <a href="https://tutor-ia.tech">Tutor-IA</a></li>
+			<li>LinkedIn: <a href="https://www.linkedin.com/in/paulocesarramirezs/">paulocesarramirezs</a></li>
+			<li>Sesiones: Bienvenida e intervención en sesiones ejecutivas.</li>
+		</ul>
+	</div>
+  
+</div>
 
 ## Luis Antonio Beltrán Prieto
-- ![Foto de Luis Antonio Beltrán](assets/images/speaker-luis-beltran.jpg)
-- Microsoft MVP en IA
-- Sitio: [luisbeltran.mx](https://luisbeltran.mx/)
-- LinkedIn: [luisantoniobeltran](https://www.linkedin.com/in/luisantoniobeltran/)
-- Sesiones: Charla inaugural, Taller para Creadores de IA, sesión para Aceleradores de IA.
+<div class="speaker-card">
+	<img src="assets/images/speaker-luis-beltran.jpg" alt="Foto de Luis Antonio Beltrán" />
+	<div class="speaker-details">
+		<ul>
+			<li>Microsoft MVP en IA</li>
+			<li>Sitio: <a href="https://luisbeltran.mx/">luisbeltran.mx</a></li>
+			<li>LinkedIn: <a href="https://www.linkedin.com/in/luisantoniobeltran/">luisantoniobeltran</a></li>
+			<li>Sesiones: Charla inaugural, Taller para Creadores de IA, sesión para Aceleradores de IA.</li>
+		</ul>
+	</div>
+  
+</div>
 
 ## David Emiliano Castillo García
-- ![Foto de David Emiliano Castillo García](assets/images/speaker-emiliano-castillo.jpg)
-- Emprendedor con IA — [Evior Developments](https://eviordevelopments.com/)
-- LinkedIn: [emiliano-castillo-040042336](https://www.linkedin.com/in/emiliano-castillo-040042336/)
-- Sesiones: Taller de prototipado con IA (Creadores), co-facilitación en sesión para Aceleradores.
+<div class="speaker-card">
+	<img src="assets/images/speaker-emiliano-castillo.jpg" alt="Foto de David Emiliano Castillo García" />
+	<div class="speaker-details">
+		<ul>
+			<li>Emprendedor con IA — <a href="https://eviordevelopments.com/">Evior Developments</a></li>
+			<li>LinkedIn: <a href="https://www.linkedin.com/in/emiliano-castillo-040042336/">emiliano-castillo-040042336</a></li>
+			<li>Sesiones: Taller de prototipado con IA (Creadores), co-facilitación en sesión para Aceleradores.</li>
+		</ul>
+	</div>
+  
+</div>
 
 ## Diego Pérez Hernández
-- ![Foto de Diego Pérez Hernández](assets/images/speaker-diego-perez.jpg)
-- Data Scientist / Emprendedor — [TrueData](https://www.truedata.com.mx/)
-- LinkedIn: [diego-ph](https://www.linkedin.com/in/diego-ph/)
-- Sesiones: Taller de prototipado con IA (Creadores), co-facilitación en sesión para Aceleradores.
+<div class="speaker-card">
+	<img src="assets/images/speaker-diego-perez.jpg" alt="Foto de Diego Pérez Hernández" />
+	<div class="speaker-details">
+		<ul>
+			<li>Data Scientist / Emprendedor — <a href="https://www.truedata.com.mx/">TrueData</a></li>
+			<li>LinkedIn: <a href="https://www.linkedin.com/in/diego-ph/">diego-ph</a></li>
+			<li>Sesiones: Taller de prototipado con IA (Creadores), co-facilitación en sesión para Aceleradores.</li>
+		</ul>
+	</div>
+  
+</div>
 
