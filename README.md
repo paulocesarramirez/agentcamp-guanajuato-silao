@@ -29,3 +29,6 @@ Se actualizarán antes del evento o el mismo día.
 ## Contribuciones y feedback
 - Revisa [CONTRIBUTING.md](CONTRIBUTING.md)
 - Reporta problemas o enlaces rotos mediante Issues.
+
+## Contacto
+- Dudas y coordinación: [contacto@emprendhec.com](mailto:contacto@emprendhec.com)

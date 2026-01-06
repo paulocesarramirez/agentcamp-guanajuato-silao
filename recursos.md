@@ -20,6 +20,19 @@ permalink: /recursos.html
 - EmprendHEC: https://www.emprendhec.com/
 - Global AI León: https://globalai.community/chapters/leon/
 
+## Organizadores y aliados (logos)
+<div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin:8px 0">
+	<a href="https://www.emprendhec.com" aria-label="EmprendHEC (abrir sitio)">
+		<img src="assets/images/logo-emprendhec.png" alt="EmprendHEC" style="height:48px" />
+	</a>
+	<a href="https://tutor-ia.tech" aria-label="Tutor-IA (abrir sitio)">
+		<img src="assets/images/logo-tutor-ia.png" alt="Tutor-IA" style="height:48px" />
+	</a>
+	<a href="https://innovacion.guanajuato.gob.mx/" aria-label="Instituto de Innovación Guanajuato (abrir sitio)">
+		<img src="assets/images/logo-instinnovacion.png" alt="Instituto de Innovación Guanajuato" style="height:48px" />
+	</a>
+</div>
+
 ## Redes Global AI
 - YouTube: https://www.youtube.com/globalaicommunity
 - LinkedIn: https://www.linkedin.com/company/global-ai-community

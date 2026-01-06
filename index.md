@@ -36,6 +36,20 @@ Conoce a nuestros [ponentes](speakers.md) e invitados especiales.
   
 </div>
 
+## Organizadores y aliados
+
+<div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap">
+	<a href="https://www.emprendhec.com" aria-label="EmprendHEC (abrir sitio)">
+		<img src="assets/images/logo-emprendhec.png" alt="EmprendHEC" style="height:56px" />
+	</a>
+	<a href="https://tutor-ia.tech" aria-label="Tutor-IA (abrir sitio)">
+		<img src="assets/images/logo-tutor-ia.png" alt="Tutor-IA" style="height:56px" />
+	</a>
+	<a href="https://innovacion.guanajuato.gob.mx/" aria-label="Instituto de Innovación Guanajuato (abrir sitio)">
+		<img src="assets/images/logo-instinnovacion.png" alt="Instituto de Innovación Guanajuato" style="height:56px" />
+	</a>
+</div>
+
 ## Logística
 
 Dirección, tiempos de acceso y mapa: [ver logística](logistica.md).
@@ -43,6 +57,10 @@ Dirección, tiempos de acceso y mapa: [ver logística](logistica.md).
 ## Recursos
 
 Enlaces útiles, comunidades, y materiales complementarios: [ver recursos](recursos.md).
+
+## Contacto
+
+Para dudas y coordinación, escribe a: [contacto@emprendhec.com](mailto:contacto@emprendhec.com)
 
 ---
 

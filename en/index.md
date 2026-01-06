@@ -17,4 +17,15 @@ Welcome! This repository hosts attendee information for the Global AI Community 
 - Creators (technical): hands‑on workshops — see Spanish pages
 - Accelerators (executive): decision‑maker sessions — see Spanish pages
 
-Most content is in Spanish. English summaries may be added.
+## Navigation (English pages)
+- Agenda: [/en/agenda.html](/en/agenda.html)
+- Speakers: [/en/speakers.html](/en/speakers.html)
+- Logistics: [/en/logistics.html](/en/logistics.html)
+- Resources: [/en/resources.html](/en/resources.html)
+- Creators (profile): [/en/profiles/creators/](/en/profiles/creators/)
+- Accelerators (profile): [/en/profiles/accelerators/](/en/profiles/accelerators/)
+
+Note: The primary language of the event site is Spanish; these English pages provide a concise overview.
+
+## Contact
+- For questions and coordination: [contacto@emprendhec.com](mailto:contacto@emprendhec.com)
