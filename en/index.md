@@ -1,10 +1,10 @@
 ---
 layout: page
-title: AgentCamp Guanajuato — Overview (EN)
+title: English
 permalink: /en/
 ---
 
-# AgentCamp Guanajuato 2026 in Silao — Overview (EN)
+# AgentCamp Guanajuato 2026 in Silao — Overview
 
 Welcome! This repository hosts attendee information for the Global AI Community event in Silao, Mexico.
 

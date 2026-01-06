@@ -1,6 +1,6 @@
 ---
 layout: home
-title: AgentCamp Guanajuato en Silao
+title: Inicio
 permalink: /
 ---
 

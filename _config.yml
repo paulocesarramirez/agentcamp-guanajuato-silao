@@ -7,6 +7,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+header_pages:
+  - index.md
+  - agenda.md
+  - galeria.md
+  - perfiles/creadores/index.md
+  - perfiles/aceleradores/index.md
+  - en/index.md
+  - speakers.md
+  - logistica.md
+  - recursos.md
+
 navigation:
   - name: Inicio
     link: /
