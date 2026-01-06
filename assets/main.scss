@@ -1,0 +1,29 @@
+---
+---
+@import "minima";
+
+/* Hide site title in the header bar */
+.site-title { display: none !important; }
+
+/* Speaker cards layout */
+.speaker-card {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  margin: 16px 0 24px;
+}
+.speaker-card img {
+  height: 120px; /* smaller headshots */
+  width: auto;
+  border-radius: 8px;
+}
+.speaker-card .speaker-details {
+  flex: 1;
+}
+.speaker-card .speaker-details ul {
+  margin: 0;
+}
+@media (max-width: 640px) {
+  .speaker-card { flex-direction: column; }
+  .speaker-card img { height: 100px; }
+}
