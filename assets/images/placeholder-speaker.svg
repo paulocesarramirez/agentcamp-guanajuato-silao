@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Foto de ponente pendiente">
+  <rect width="640" height="360" fill="#e5e7eb"/>
+  <circle cx="320" cy="160" r="70" fill="#9ca3af"/>
+  <rect x="200" y="250" width="240" height="40" rx="8" fill="#9ca3af"/>
+  <text x="320" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#374151">Foto pendiente</text>
+</svg>

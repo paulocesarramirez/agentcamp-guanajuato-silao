@@ -1,0 +1,34 @@
+title: AgentCamp Guanajuato en Silao
+description: Repositorio para asistentes del AgentCamp Guanajuato 2026 en Silao (Global AI Community)
+theme: minima
+locale: es_MX
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+navigation:
+  - name: Inicio
+    link: /
+  - name: Agenda
+    link: /agenda.html
+  - name: Ponentes
+    link: /speakers.html
+  - name: Logística
+    link: /logistica.html
+  - name: Recursos
+    link: /recursos.html
+  - name: Galería
+    link: /galeria.html
+  - name: Creadores de IA
+    link: /perfiles/creadores/
+  - name: Aceleradores de IA
+    link: /perfiles/aceleradores/
+  - name: English
+    link: /en/
+
+exclude:
+  - node_modules
+  - .github
+  - assets/images/README.md
+  - lychee.toml

@@ -1,0 +1,11 @@
+# Lychee link checker config
+
+# Exclude any local placeholder images or paths
+exclude_path = ["assets/images"]
+
+# Accept some non-200 but valid statuses (e.g., 999 from LinkedIn)
+accept = ["999"]
+
+# Retry settings
+max_retries = 3
+retry_wait_time = 2
