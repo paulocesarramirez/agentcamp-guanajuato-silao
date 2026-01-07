@@ -326,6 +326,22 @@ tbody tr:last-child {
 	border-bottom: none;
 }
 
+/* Responsive table wrapper for mobile */
+@media (max-width: 768px) {
+	table {
+		display: block;
+		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
+	}
+	
+	thead th,
+	tbody td {
+		padding: 0.625rem 0.75rem;
+		font-size: 0.875rem;
+		white-space: nowrap;
+	}
+}
+
 /* ========================================
    LOGO SECTIONS
    ======================================== */
