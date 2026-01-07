@@ -331,7 +331,6 @@ tbody tr:last-child {
 	table {
 		display: block;
 		overflow-x: auto;
-		white-space: nowrap;
 		-webkit-overflow-scrolling: touch;
 	}
 	
@@ -339,6 +338,7 @@ tbody tr:last-child {
 	tbody td {
 		padding: 0.625rem 0.75rem;
 		font-size: 0.875rem;
+		white-space: nowrap;
 	}
 }
 
