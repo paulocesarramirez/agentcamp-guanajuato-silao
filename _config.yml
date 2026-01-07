@@ -65,3 +65,7 @@ exclude:
   - .github
   - assets/images/README.md
   - lychee.toml
+  - DESIGN_DOCUMENTATION.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
