@@ -1,5 +1,7 @@
 # AgentCamp Guanajuato en Silao (Global AI Community)
 
+Architected by Paulo César Ramírez Silva, using GitHub Copilot.
+
 Bienvenido/a al repositorio oficial para asistentes del AgentCamp Guanajuato 2026 en Silao.
 A continuación encontrarás agenda, ponentes, materiales de talleres, recursos, y rutas por perfil.
 
