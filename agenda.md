@@ -4,9 +4,15 @@ title: Agenda
 permalink: /agenda.html
 ---
 
-# Agenda del Evento
+<div class="content-section">
+	<h2>📋 Agenda del Evento</h2>
+	<p><strong>Fecha:</strong> Viernes 9 de enero de 2026<br>
+	<strong>Horario:</strong> CST (Horario del Centro de México)<br>
+	<strong>Nota:</strong> Sujeto a ajustes menores</p>
+</div>
 
-Horario en CST (México). Sujeto a ajustes menores.
+<div class="content-section">
+	<h2>Programación Completa</h2>
 
 | Horario          | Audiencia         | Actividad / Presentador(es)                                         | Tema / Taller |
 |------------------|-------------------|---------------------------------------------------------------------|---------------|
@@ -20,9 +26,25 @@ Horario en CST (México). Sujeto a ajustes menores.
 | 12:30–14:00      | Aceleradores de IA| Paulo C. Ramírez con Diego Pérez                                    | Lecciones aprendidas para PyMEs en 2026 |
 | 14:00–14:30      | Todos             | Networking libre y cierre con foto grupal                           |               |
 
-Consulta también el anuncio con contexto ampliado: 
-[EmprendHEC — AgentCamp Guanajuato 2026 en Silao](https://www.emprendhec.com/post/agentcamp-guanajuato-2026-en-silao-global-ai-community).
+</div>
 
-Enlaces rápidos a rutas:
-- [Creadores de IA](perfiles/creadores/)
-- [Aceleradores de IA](perfiles/aceleradores/)
+<div class="content-section">
+	<h2>🎯 Rutas por Perfil</h2>
+	<div class="profile-cards">
+		<div class="profile-card">
+			<h3>💻 Creadores de IA</h3>
+			<p>Talleres técnicos y prácticos con herramientas de desarrollo de agentes</p>
+			<a href="perfiles/creadores/">Ver Detalles →</a>
+		</div>
+		<div class="profile-card">
+			<h3>📊 Aceleradores de IA</h3>
+			<p>Sesiones ejecutivas sobre adopción, decisiones y retorno de inversión</p>
+			<a href="perfiles/aceleradores/">Ver Detalles →</a>
+		</div>
+	</div>
+</div>
+
+<div class="highlight-box">
+	<p><strong>📢 Más información:</strong> Consulta el anuncio completo con contexto ampliado en 
+	<a href="https://www.emprendhec.com/post/agentcamp-guanajuato-2026-en-silao-global-ai-community" target="_blank" rel="noopener">EmprendHEC — AgentCamp Guanajuato 2026 en Silao</a></p>
+</div>

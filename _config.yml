@@ -1,11 +1,33 @@
 title: AgentCamp Guanajuato en Silao
-description: Repositorio para asistentes del AgentCamp Guanajuato 2026 en Silao (Global AI Community)
+description: Evento de la Global AI Community para impulsar el aprendizaje y la aplicación práctica de agentes de IA en Silao, Guanajuato - 9 de enero 2026
+author: Global AI Community León
+url: https://paulocesarramirez.github.io
+baseurl: /agentcamp-guanajuato-silao
 theme: minima
 locale: es_MX
+lang: es
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# SEO and Social Media
+twitter:
+  username: GlobAICommunity
+  card: summary_large_image
+
+social:
+  name: Global AI Community León
+  links:
+    - https://globalai.community/chapters/leon/
+    - https://www.linkedin.com/company/global-ai-community
+    - https://x.com/GlobAICommunity
+
+# Image for social sharing
+logo: /agentcamp-guanajuato-silao/assets/images/logo-global-ai.png
+
+# Analytics (optional - uncomment and add your ID if needed)
+# google_analytics: UA-XXXXXXXXX-X
 
 header_pages:
   - index.md
@@ -43,3 +65,7 @@ exclude:
   - .github
   - assets/images/README.md
   - lychee.toml
+  - DESIGN_DOCUMENTATION.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

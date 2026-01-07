@@ -4,37 +4,80 @@ title: Creadores de IA
 permalink: /perfiles/creadores/
 ---
 
-# Ruta: Creadores de IA
+<div class="content-section">
+	<h2>💻 Ruta: Creadores de IA</h2>
+	<p><strong>Dirigida a:</strong> Perfiles técnicos (ingenieros, estudiantes y desarrolladores)</p>
+	<p><strong>Enfoque:</strong> 100% práctico con herramientas modernas de desarrollo de agentes</p>
+</div>
 
-Dirigida a perfiles técnicos (ingenieros, estudiantes y desarrolladores). Enfoque 100% práctico.
+<div class="content-section">
+	<h2>🎯 Objetivos de Aprendizaje</h2>
+	<ul>
+		<li>Entender las <strong>buenas prácticas</strong> para diseñar y construir agentes de IA</li>
+		<li><strong>Prototipar soluciones</strong> con herramientas accesibles y actuales</li>
+		<li>Preparar un <strong>entorno de desarrollo</strong> mínimo para experimentar</li>
+		<li>Conocer casos de uso reales y aplicaciones prácticas</li>
+	</ul>
+</div>
 
-## Objetivos de aprendizaje
-- Entender buenas prácticas para diseñar y construir agentes de IA
-- Prototipar soluciones con herramientas accesibles
-- Preparar un entorno mínimo para experimentar
+<div class="content-section">
+	<h2>✅ Prerrequisitos</h2>
+	<div class="highlight-box">
+		<ul>
+			<li>Laptop con navegador actualizado</li>
+			<li>(Opcional) Visual Studio Code + Git</li>
+			<li>Suscripción Azure (se proporcionará para práctica en el evento)</li>
+			<li>Conocimientos básicos de programación recomendados</li>
+		</ul>
+	</div>
+</div>
 
-## Prerrequisitos
-- Laptop con navegador actualizado
-- (Opcional) VS Code + Git
-- Suscripción Azure (proporcionada para práctica en el evento)
+<div class="content-section">
+	<h2>🛠️ Preparación del Entorno</h2>
+	<ol>
+		<li>Asegúrate de tener actualizaciones del navegador (Edge, Chrome o Firefox)</li>
+		<li>Crea o confirma tu <strong>cuenta Microsoft</strong> (para canjear Azure el día del evento)</li>
+		<li>(Opcional) Instala <strong>VS Code</strong> y <strong>Git</strong> para seguir los ejemplos en vivo</li>
+	</ol>
+</div>
 
-## Preparación del entorno
-1. Asegura actualizaciones del navegador.
-2. Crea o confirma tu cuenta Microsoft (para canjear Azure el día del evento).
-3. (Opcional) Instala VS Code y Git.
+<div class="content-section">
+	<h2>📋 Talleres de esta Ruta</h2>
+	
+	<div class="speaker-card">
+		<div class="speaker-details">
+			<h3>Sesión 1: Técnicas y herramientas de prototipado con IA</h3>
+			<ul>
+				<li><strong>Horario:</strong> 10:50–12:20</li>
+				<li><strong>Facilitadores:</strong> Emiliano Castillo y Diego Pérez</li>
+				<li><strong>Estado de materiales:</strong> <span class="badge pending">Materiales pendientes</span></li>
+				<li><strong>Enlace:</strong> <a href="../../talleres/prototipado/">Ver detalles del taller</a></li>
+			</ul>
+		</div>
+	</div>
+	
+	<div class="speaker-card">
+		<div class="speaker-details">
+			<h3>Sesión 2: Mejores prácticas para creación de Agentes de IA</h3>
+			<ul>
+				<li><strong>Horario:</strong> 12:30–14:00</li>
+				<li><strong>Facilitador:</strong> Luis Beltrán</li>
+				<li><strong>Estado de materiales:</strong> <span class="badge pending">Materiales pendientes</span></li>
+				<li><strong>Enlace:</strong> <a href="../../talleres/mejores-practicas-agentes/">Ver detalles del taller</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
 
-## Talleres de esta ruta
-- 10:50–12:20 · [Técnicas y herramientas de prototipado con IA](../../talleres/prototipado/)
-  - Facilitadores: Emiliano Castillo y Diego Pérez
-  - Estado de materiales: **Materiales pendientes**
-- 12:30–14:00 · [Mejores prácticas para creación de Agentes de IA](../../talleres/mejores-practicas-agentes/)
-  - Facilitador: Luis Beltrán
-  - Estado de materiales: **Materiales pendientes**
+<div class="content-section">
+	<h2>💬 Soporte y Dudas</h2>
+	<ul>
+		<li>Revisa la sección <a href="../../recursos.html">Recursos</a> para enlaces y comunidades</li>
+		<li>Durante el evento, solicita apoyo al staff del capítulo local</li>
+		<li>Contacto: <a href="mailto:contacto@emprendhec.com">contacto@emprendhec.com</a></li>
+	</ul>
+</div>
 
-## Soporte y dudas
-- Revisa la sección [Recursos](../../recursos.md)
-- Durante el evento, solicita apoyo al staff del capítulo local
-
----
-
-> Nota: publicaremos instrucciones “paso a paso” y links a repos/slides en cuanto estén disponibles.
+<div class="highlight-box">
+	<p><strong>📢 Nota:</strong> Publicaremos instrucciones "paso a paso" y links a repositorios/slides en cuanto estén disponibles.</p>
+</div>
