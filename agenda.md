@@ -13,6 +13,7 @@ permalink: /agenda.html
 
 <h2>Programación Completa</h2>
 <div class="content-section" markdown="1">
+	
 | Horario          | Audiencia         | Actividad / Presentador(es)                                         | Tema / Taller |
 |------------------|-------------------|---------------------------------------------------------------------|---------------|
 | 9:40–10:00       | Todos             | Registro                                                            |               |
