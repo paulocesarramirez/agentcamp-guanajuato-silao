@@ -71,6 +71,14 @@ permalink: /recursos.html
 </div>
 
 <div class="content-section">
+	<h2>📢 Charla Inaugural</h2>
+	<p>Materiales de la sesión de apertura del AgentCamp Guanajuato 2026:</p>
+	<ul>
+		<li><strong>Presentación:</strong> <a href="assets/pdfs/Charla inaugural AgentCamp Guanajuato.pdf" target="_blank" rel="noopener">Descargar PDF</a></li>
+	</ul>
+</div>
+
+<div class="content-section">
 	<h2>🛠️ Herramientas Sugeridas</h2>
 	<div class="highlight-box">
 		<p><strong>Instalación opcional antes del evento:</strong></p>

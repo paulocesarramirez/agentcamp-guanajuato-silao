@@ -14,7 +14,7 @@ permalink: /talleres/lecciones-pymes-2026/
 Compartir aprendizajes prácticos para PyMEs que buscan adoptar agentes de IA con retorno medible.
 
 ## Materiales
-- Slides ejecutivas: **Materiales pendientes**
+- Slides ejecutivas: [Descargar PDF](../../assets/pdfs/Sesión - Aceleradores IA - Lecciones Aprendidas PyMEs.pdf)
 - Plantillas (priorización, riesgos, roadmap): **Materiales pendientes**
 
 ## Entregables

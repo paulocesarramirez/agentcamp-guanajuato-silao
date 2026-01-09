@@ -1,7 +1,7 @@
 # Lychee link checker config
 
 # Exclude any local placeholder images or paths
-exclude_path = ["assets/images"]
+exclude_path = ["assets/images", "assets/pdfs"]
 
 # Accept some non-200 but valid statuses (e.g., 999 from LinkedIn)
 accept = ["999"]

@@ -41,7 +41,7 @@ permalink: /perfiles/aceleradores/
 			<ul>
 				<li><strong>Horario:</strong> 12:30–14:00</li>
 				<li><strong>Facilitadores:</strong> Paulo C. Ramírez y Diego Pérez</li>
-				<li><strong>Materiales:</strong> <span class="badge pending">Materiales pendientes</span> (checklists, plantillas)</li>
+				<li><strong>Materiales:</strong> <a href="../../assets/pdfs/Sesión - Aceleradores IA - Lecciones Aprendidas PyMEs.pdf" target="_blank" rel="noopener">Slides ejecutivas (PDF)</a> | <span class="badge pending">Plantillas pendientes</span></li>
 				<li><strong>Enlace:</strong> <a href="../../talleres/lecciones-pymes-2026/">Ver detalles de la sesión</a></li>
 			</ul>
 		</div>

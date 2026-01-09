@@ -14,7 +14,7 @@ permalink: /en/workshops/sme-lessons-2026/
 Share practical learnings for SMEs adopting AI agents with measurable returns.
 
 ## Materials
-- Executive slides: **Materials pending**
+- Executive slides: [Download PDF](../../assets/pdfs/Sesión - Aceleradores IA - Lecciones Aprendidas PyMEs.pdf)
 - Templates (prioritization, risks, roadmap): **Materials pending**
 
 ## Deliverables

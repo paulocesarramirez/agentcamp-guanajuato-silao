@@ -29,6 +29,9 @@ permalink: /en/resources.html
 - See profiles: [Creators](/en/profiles/creators/) · [Accelerators](/en/profiles/accelerators/)
 - Status: **Materials pending** (links to slides/repos to be published).
 
+## Inaugural Talk
+- Presentation: [Download PDF](assets/pdfs/Charla inaugural AgentCamp Guanajuato.pdf)
+
 ## Suggested tools
 - Up-to-date browser (Edge/Chrome/Firefox)
 - Microsoft account (to redeem Azure subscription provided at the event)
