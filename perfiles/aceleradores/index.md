@@ -29,7 +29,7 @@ permalink: /perfiles/aceleradores/
 			<ul>
 				<li><strong>Horario:</strong> 10:50–12:20</li>
 				<li><strong>Facilitadores:</strong> Luis Beltrán y Paulo C. Ramírez</li>
-				<li><strong>Materiales:</strong> <span class="badge pending">Materiales pendientes</span> (handouts, slides)</li>
+				<li><strong>Materiales:</strong> <a href="../../talleres/soluciones-decision-makers/Soluciones%20Ag%C3%A9nticas%20para%20Tomadores%20de%20Decisiones.pdf" target="_blank" rel="noopener">Slides ejecutivas (PDF)</a></li>
 				<li><strong>Enlace:</strong> <a href="../../talleres/soluciones-decision-makers/">Ver detalles de la sesión</a></li>
 			</ul>
 		</div>

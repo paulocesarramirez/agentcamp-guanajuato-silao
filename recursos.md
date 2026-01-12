@@ -98,7 +98,7 @@ permalink: /recursos.html
 	<p>Los materiales específicos de cada taller se publicarán próximamente:</p>
 	<ul>
 		<li><a href="perfiles/creadores/">Ruta: Creadores de IA</a> — <a href="https://agentcamp.netlify.app/" target="_blank" rel="noopener">Sitio web del taller</a> (creado por David Emiliano Castillo García) y <a href="https://github.com/eviordevelopments/agentcamp_silao_2026_creadores-de-IA-practices" target="_blank" rel="noopener">repositorio GitHub</a></li>
-		<li><a href="perfiles/aceleradores/">Ruta: Aceleradores de IA</a> — Plantillas ejecutivas y frameworks <span class="badge pending">Pendiente</span></li>
+		<li><a href="perfiles/aceleradores/">Ruta: Aceleradores de IA</a> — <a href="talleres/soluciones-decision-makers/Soluciones%20Ag%C3%A9nticas%20para%20Tomadores%20de%20Decisiones.pdf" target="_blank" rel="noopener">Slides ejecutivas (PDF)</a> y plantillas <span class="badge pending">Pendiente</span></li>
 	</ul>
 	<p><em>Estado actual: se publicarán enlaces a slides y repositorios antes del evento.</em></p>
 	<p><strong>Síntesis del sitio web para Creadores de IA:</strong> Recurso digital unificado con fases de aprendizaje, artículo sobre fundamentos de IA (redes neuronales, LLMs, agentes inteligentes), enfoque práctico para prototipado, y conexiones con la comunidad local de Guanajuato.</p>
