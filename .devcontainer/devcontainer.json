@@ -1,0 +1,57 @@
+{
+	"name": "AgentCamp Guanajuato - Jekyll Development",
+	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+	
+	"features": {
+		"ghcr.io/devcontainers/features/node:1": {
+			"version": "lts"
+		}
+	},
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode.vscode-html-css",
+				"bradlc.vscode-tailwindcss",
+				"ritwickdey.LiveServer",
+				"syler.sass-indented",
+				"sibiraj-s.vscode-scss-formatter",
+				"ecmel.vscode-html-css"
+			],
+			"settings": {
+				"terminal.integrated.defaultProfile.linux": "bash",
+				"files.eol": "\n",
+				"editor.formatOnSave": true,
+				"editor.tabSize": 2,
+				"[html]": {
+					"editor.defaultFormatter": "vscode.html-language-features"
+				},
+				"[scss]": {
+					"editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+				},
+				"liveServer.settings.port": 3000,
+				"liveServer.settings.root": "/_site"
+			}
+		}
+	},
+
+	"forwardPorts": [3000, 4000, 8080],
+	"portsAttributes": {
+		"3000": {
+			"label": "Live Server",
+			"onAutoForward": "notify"
+		},
+		"4000": {
+			"label": "Jekyll Server",
+			"onAutoForward": "notify"
+		},
+		"8080": {
+			"label": "Development Server",
+			"onAutoForward": "notify"
+		}
+	},
+
+	"postCreateCommand": "bundle install",
+
+	"remoteUser": "vscode"
+}
