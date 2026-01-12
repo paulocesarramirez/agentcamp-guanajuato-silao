@@ -20,6 +20,8 @@ Explorar métodos rápidos para idear, validar y prototipar soluciones con IA.
 ## Materiales
 - Sitio web del taller: [https://agentcamp.netlify.app/](https://agentcamp.netlify.app/) (creado por David Emiliano Castillo García)
 - Repositorio de ejemplo: [GitHub Codespaces](https://github.com/eviordevelopments/agentcamp_silao_2026_creadores-de-IA-practices)
+- Tutorial RAG con Semantic Suite: [semantic-suite.truedata.com.mx/dashboard/tutorial](https://semantic-suite.truedata.com.mx/dashboard/tutorial) (requiere crear usuario gratuito, compartido por Diego Pérez Hernández)
+- Sitio web de TrueData: [https://www.truedata.com.mx/](https://www.truedata.com.mx/) (de Diego Pérez Hernández)
 
 ### Síntesis del contenido del sitio web
 El sitio https://agentcamp.netlify.app/ es un recurso digital unificado para la Ruta de Creadores de IA en AgentCamp 2026. Incluye:

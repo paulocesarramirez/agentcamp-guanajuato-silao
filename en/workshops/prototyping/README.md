@@ -20,6 +20,8 @@ Explore rapid methods to ideate, validate, and prototype AI-driven solutions.
 ## Materials
 - Workshop website: [https://agentcamp.netlify.app/](https://agentcamp.netlify.app/) (created by David Emiliano Castillo García)
 - Example repository: [GitHub Codespaces](https://github.com/eviordevelopments/agentcamp_silao_2026_creadores-de-IA-practices)
+- RAG Tutorial with Semantic Suite: [semantic-suite.truedata.com.mx/dashboard/tutorial](https://semantic-suite.truedata.com.mx/dashboard/tutorial) (requires free user creation, shared by Diego Pérez Hernández)
+- TrueData website: [https://www.truedata.com.mx/](https://www.truedata.com.mx/) (by Diego Pérez Hernández)
 
 ### Synthesis of the website content
 The site https://agentcamp.netlify.app/ is a unified digital resource for the Creators of AI Path in AgentCamp 2026. It includes:

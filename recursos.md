@@ -47,7 +47,40 @@ permalink: /recursos.html
 </div>
 
 <div class="content-section">
-	<h2>📱 Redes Sociales - Global AI Community</h2>
+	<h2>� Speakers y Facilitadores</h2>
+	<p>Conoce a los expertos detrás de AgentCamp 2026. Sus sitios web ofrecen insights profundos, servicios innovadores y oportunidades de colaboración.</p>
+
+	<div class="highlight-box">
+		<h3>🚀 Paulo César Ramírez Silva - EmprendHEC & Tutor-IA</h3>
+		<p><strong>EmprendHEC:</strong> Empresa líder en educación en IA para líderes, IA en educación y comunidad de IA. Ofrece capacitación ejecutiva en hiper-productividad con IA, soluciones educativas con IA y lidera la comunidad local de Global AI Community, fomentando emprendimientos digitales enfocados en asistentes y agentes de IA. Más de 21 años impactando a 20,000+ emprendedores en México.</p>
+		<p><strong>Tutor-IA:</strong> Tutor educativo basado en IA para estudiantes de primaria y secundaria en Latinoamérica (6-15 años). Motiva el aprendizaje autónomo, promueve desarrollo integral socioemocional y ofrece tutoría personalizada 24/7 con énfasis en ética y valores.</p>
+		<p><strong>¡Prueba Tutor-IA ahora!</strong> <a href="https://app.tutor-ia.tech" target="_blank" rel="noopener" style="background-color: #2563eb; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Accede a https://app.tutor-ia.tech</a></p>
+		<p><strong>Visita:</strong> <a href="https://www.emprendhec.com" target="_blank" rel="noopener">EmprendHEC</a> | <a href="https://tutor-ia.tech" target="_blank" rel="noopener">Tutor-IA</a></p>
+	</div>
+
+	<div class="highlight-box">
+		<h3>🤖 Luis Antonio Beltrán Prieto</h3>
+		<p>Microsoft MVP en IA, experto en desarrollo de agentes inteligentes y tendencias 2026. Ofrece charlas inaugurales, talleres de mejores prácticas para creadores de IA y sesiones para aceleradores. Especialista en diseño responsable de agentes de IA, evaluación y despliegue.</p>
+		<p><strong>¡Conecta con Luis!</strong> <a href="https://www.luisbeltran.mx/" target="_blank" rel="noopener" style="background-color: #10b981; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visita https://www.luisbeltran.mx/</a></p>
+	</div>
+
+	<div class="highlight-box">
+		<h3>🔧 David Emiliano Castillo García - e-Vior Developments</h3>
+		<p>Empresa de alto impacto tecnológico en LATAM, enfocada en soluciones de IA, drones autónomos, robótica colaborativa, impresión 3D sostenible y transformación social. Desarrolla prototipos innovadores para agricultura sostenible, salud y educación, impactando a millones con tecnología que conecta y transforma.</p>
+		<p><strong>¡Co-crea el futuro con e-Vior!</strong> <a href="https://eviordevelopments.com/" target="_blank" rel="noopener" style="background-color: #f59e0b; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Explora https://eviordevelopments.com/</a></p>
+		<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/company/e-vior-developments" target="_blank" rel="noopener">e-Vior Developments</a></p>
+	</div>
+
+	<div class="highlight-box">
+		<h3>📊 Diego Pérez Hernández - TrueData</h3>
+		<p>Especialistas en ingeniería de datos con enfoque en simplicidad e inteligencia adecuada. Ofrecen gestión de datos, inteligencia de datos y dominio de datos para autonomía operativa. Desarrollan Semantic Suite para búsqueda semántica empresarial y soluciones replicables como RINGR y servicios de facturación automatizados.</p>
+		<p><strong>¡Inicia tu proyecto con TrueData!</strong> <a href="https://www.truedata.com.mx/" target="_blank" rel="noopener" style="background-color: #ef4444; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Descubre https://www.truedata.com.mx/</a></p>
+		<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/company/true-data-science" target="_blank" rel="noopener">TrueData</a></p>
+	</div>
+</div>
+
+<div class="content-section">
+	<h2>�📱 Redes Sociales - Global AI Community</h2>
 	<p>Síguenos y mantente conectado con la comunidad global:</p>
 	<ul>
 		<li><strong>YouTube:</strong> <a href="https://www.youtube.com/globalaicommunity" target="_blank" rel="noopener">@globalaicommunity</a></li>
