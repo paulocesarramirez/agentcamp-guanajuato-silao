@@ -49,8 +49,8 @@ permalink: /perfiles/creadores/
 			<h3>Sesión 1: Técnicas y herramientas de prototipado con IA</h3>
 			<ul>
 				<li><strong>Horario:</strong> 10:50–12:20</li>
-				<li><strong>Facilitadores:</strong> Emiliano Castillo y Diego Pérez</li>
-				<li><strong>Estado de materiales:</strong> <span class="badge pending">Materiales pendientes</span></li>
+				<li><strong>Facilitadores:</strong> David Emiliano Castillo García y Diego Pérez Hernández</li>
+				<li><strong>Estado de materiales:</strong> <a href="https://agentcamp.netlify.app/" target="_blank" rel="noopener">Sitio web disponible</a></li>
 				<li><strong>Enlace:</strong> <a href="../../talleres/prototipado/">Ver detalles del taller</a></li>
 			</ul>
 		</div>

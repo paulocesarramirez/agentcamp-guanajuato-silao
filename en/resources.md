@@ -26,8 +26,10 @@ permalink: /en/resources.html
 - Medium: https://medium.com/global-ai-community
 
 ## Workshop materials
-- See profiles: [Creators](/en/profiles/creators/) · [Accelerators](/en/profiles/accelerators/)
-- Status: **Materials pending** (links to slides/repos to be published).
+- [Creators path](/en/profiles/creators/): [Workshop website](https://agentcamp.netlify.app/) (created by David Emiliano Castillo García) and [GitHub repository](https://github.com/eviordevelopments/agentcamp_silao_2026_creadores-de-IA-practices)
+- [Accelerators path](/en/profiles/accelerators/): Executive templates and frameworks **(Materials pending)**
+- Status: Links to slides/repos to be published before the event.
+- **Synthesis of the Creators website:** Unified digital resource with learning phases, article on AI fundamentals (neural networks, LLMs, intelligent agents), practical prototyping focus, and connections to the local Guanajuato community.
 
 ## Inaugural Talk
 - Presentation: [Download PDF](assets/pdfs/Charla inaugural AgentCamp Guanajuato.pdf)

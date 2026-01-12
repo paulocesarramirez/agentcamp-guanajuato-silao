@@ -18,8 +18,17 @@ Explorar métodos rápidos para idear, validar y prototipar soluciones con IA.
 - (Opcional) VS Code + Git
 
 ## Materiales
-- Slides: **Materiales pendientes**
-- Repositorio de ejemplo: **Materiales pendientes**
+- Sitio web del taller: [https://agentcamp.netlify.app/](https://agentcamp.netlify.app/) (creado por David Emiliano Castillo García)
+- Repositorio de ejemplo: [GitHub Codespaces](https://github.com/eviordevelopments/agentcamp_silao_2026_creadores-de-IA-practices)
+
+### Síntesis del contenido del sitio web
+El sitio https://agentcamp.netlify.app/ es un recurso digital unificado para la Ruta de Creadores de IA en AgentCamp 2026. Incluye:
+- **Fases de aprendizaje**: Desde fundamentos hasta prototipado avanzado.
+- **Artículo destacado**: "Fundamentos de la IA: De Redes Neuronales a Agentes Inteligentes" (explora CNNs, LLMs y procesamiento de imágenes médicas).
+- **Comunidad activa**: Conexión con creadores, ingenieros y emprendedores en Guanajuato.
+- **Enfoque práctico**: Teoría acelerada a MVPs funcionales en menos de 90 minutos.
+- **Resultados reales**: Prototipado guiado para problemas locales.
+- **Recursos adicionales**: Enlaces a empresas colaboradoras como E-vior Developments y TrueData.
 
 ## Pasos sugeridos (cuando estén los materiales)
 1. Revisa las slides

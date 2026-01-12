@@ -25,8 +25,8 @@ For technical profiles (engineers, students, developers). Hands-on focus.
 
 ## Workshops in this track
 - 10:50–12:20 · [Prototyping techniques & tools](../../workshops/prototyping/)
-  - Facilitators: Emiliano Castillo and Diego Pérez
-  - Materials status: **Materials pending**
+  - Facilitators: David Emiliano Castillo García and Diego Pérez Hernández
+  - Materials status: [Website available](https://agentcamp.netlify.app/)
 - 12:30–14:00 · [Best practices for building AI Agents](../../workshops/agent-best-practices/)
   - Facilitator: Luis Beltrán
   - Materials status: **Materials pending**
