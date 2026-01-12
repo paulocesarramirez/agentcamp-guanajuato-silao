@@ -15,11 +15,11 @@ Share practical learnings for SMEs adopting AI agents with measurable returns.
 
 ## Materials
 - Executive slides: [Download PDF](../../assets/pdfs/Sesión - Aceleradores IA - Lecciones Aprendidas PyMEs.pdf)
-- Templates (prioritization, risks, roadmap): **Materials pending**
+- Templates (prioritization, risks, roadmap): Coming soon
 
 ## Deliverables
-- One-page executive brief (PDF) — **Materials pending**
-- Prioritization checklist — **Materials pending**
+- One-page executive brief (PDF) — Coming soon
+- Prioritization checklist — Coming soon
 
 ## Next steps
 - See [Accelerators profile](/en/profiles/accelerators/)

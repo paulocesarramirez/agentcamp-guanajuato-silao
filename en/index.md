@@ -39,6 +39,29 @@ permalink: /en/
 </div>
 
 <div class="content-section">
+	<h2>🎤 Featured Speakers</h2>
+	<p>Meet our experts and facilitators on the <a href="/en/speakers.html"><strong>Speakers</strong></a> page:</p>
+	<div class="profile-cards">
+		<div class="profile-card">
+			<h3>Luis Antonio Beltrán</h3>
+			<p>Microsoft MVP in AI, expert in intelligent agent development and 2026 trends. Offers keynote talks, best practices workshops for AI creators, and sessions for accelerators.</p>
+		</div>
+		<div class="profile-card">
+			<h3>Paulo César Ramírez</h3>
+			<p>Organizer, Global AI León. Leader in AI education with EmprendHEC and Tutor-IA, impacting thousands of entrepreneurs in Mexico with innovative solutions.</p>
+		</div>
+		<div class="profile-card">
+			<h3>Emiliano Castillo</h3>
+			<p>AI Entrepreneur, Evior Developments. Specialized in AI solutions, autonomous drones, and robotics, developing prototypes for agriculture, health, and education.</p>
+		</div>
+		<div class="profile-card">
+			<h3>Diego Pérez</h3>
+			<p>Data Scientist, TrueData. Expert in data engineering and semantic search, offering replicable solutions for business operational autonomy.</p>
+		</div>
+	</div>
+</div>
+
+<div class="content-section">
 	<h2>🗂️ Navigation</h2>
 	<ul>
 		<li><strong>Agenda:</strong> <a href="/en/agenda.html">View full schedule</a></li>

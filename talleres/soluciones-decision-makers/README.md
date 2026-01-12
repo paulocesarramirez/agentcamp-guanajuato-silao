@@ -15,14 +15,14 @@ Entender el panorama 2026 de soluciones con agentes de IA y cómo evaluar su con
 
 ## Materiales
 - Slides ejecutivas: [Descargar PDF](Soluciones%20Ag%C3%A9nticas%20para%20Tomadores%20de%20Decisiones.pdf)
-- Casos de uso locales: **Materiales pendientes**
+- Casos de uso locales: Próximamente
 
 ### Síntesis de la presentación
 La presentación "Soluciones Agénticas para Tomadores de Decisiones" ofrece una visión integral del panorama 2026 de soluciones basadas en agentes de IA. Cubre cómo evaluar la conveniencia de implementar agentes inteligentes en entornos empresariales, incluyendo marcos de priorización (valor vs. esfuerzo), riesgos y cumplimiento normativo. Incluye casos de uso locales adaptados al contexto de Guanajuato y México, con ejemplos prácticos para acelerar la adopción de IA en toma de decisiones ejecutivas.
 
 ## Marco de decisiones
-- Priorización (valor vs. esfuerzo): **Materiales pendientes**
-- Riesgos y cumplimiento: **Materiales pendientes**
+- Priorización (valor vs. esfuerzo): Próximamente
+- Riesgos y cumplimiento: Próximamente
 
 ## Resultados
 - Lista corta de iniciativas y criterios de decisión

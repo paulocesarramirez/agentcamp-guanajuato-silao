@@ -15,11 +15,11 @@ Compartir aprendizajes prácticos para PyMEs que buscan adoptar agentes de IA co
 
 ## Materiales
 - Slides ejecutivas: [Descargar PDF](../../assets/pdfs/Sesión - Aceleradores IA - Lecciones Aprendidas PyMEs.pdf)
-- Plantillas (priorización, riesgos, roadmap): **Materiales pendientes**
+- Plantillas (priorización, riesgos, roadmap): Próximamente
 
 ## Entregables
-- Hoja ejecutiva 1–2 páginas (PDF) — **Materiales pendientes**
-- Checklist de priorización — **Materiales pendientes**
+- Hoja ejecutiva 1–2 páginas (PDF) — Próximamente
+- Checklist de priorización — Próximamente
 
 ## Siguientes pasos
 - Ver [Aceleradores de IA](../../perfiles/aceleradores/)

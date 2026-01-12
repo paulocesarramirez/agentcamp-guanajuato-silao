@@ -50,12 +50,24 @@ permalink: /
 <div class="content-section">
 	<h2>🎤 Ponentes Destacados</h2>
 	<p>Conoce a nuestros expertos y facilitadores en la página de <a href="speakers.html"><strong>Ponentes</strong></a>:</p>
-	<ul>
-		<li><strong>Luis Antonio Beltrán</strong> - Microsoft MVP en IA</li>
-		<li><strong>Paulo César Ramírez</strong> - Organizador, Global AI León</li>
-		<li><strong>Emiliano Castillo</strong> - Emprendedor con IA, Evior Developments</li>
-		<li><strong>Diego Pérez</strong> - Data Scientist, TrueData</li>
-	</ul>
+	<div class="profile-cards">
+		<div class="profile-card">
+			<h3>Luis Antonio Beltrán</h3>
+			<p>Microsoft MVP en IA, experto en desarrollo de agentes inteligentes y tendencias 2026. Ofrece charlas inaugurales, talleres de mejores prácticas para creadores de IA y sesiones para aceleradores.</p>
+		</div>
+		<div class="profile-card">
+			<h3>Paulo César Ramírez</h3>
+			<p>Organizador, Global AI León. Líder en educación en IA con EmprendHEC y Tutor-IA, impactando a miles de emprendedores en México con soluciones innovadoras.</p>
+		</div>
+		<div class="profile-card">
+			<h3>Emiliano Castillo</h3>
+			<p>Emprendedor con IA, Evior Developments. Especializado en soluciones de IA, drones autónomos y robótica, desarrollando prototipos para agricultura, salud y educación.</p>
+		</div>
+		<div class="profile-card">
+			<h3>Diego Pérez</h3>
+			<p>Data Scientist, TrueData. Experto en ingeniería de datos y búsqueda semántica, ofreciendo soluciones replicables para autonomía operativa empresarial.</p>
+		</div>
+	</div>
 </div>
 
 <div class="content-section">
