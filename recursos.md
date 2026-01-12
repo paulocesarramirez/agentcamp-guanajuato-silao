@@ -125,3 +125,58 @@ permalink: /recursos.html
 		<p><em>Nota: Ajustaremos este listado si algún taller requiere software adicional específico.</em></p>
 	</div>
 </div>
+
+<div class="content-section">
+	<h2>📚 Lista de Recursos para Aprender sobre Agentes de IA</h2>
+	<p>Basado en el contexto del AgentCamp Guanajuato-Silao, he integrado los mejores recursos disponibles en español (priorizando versiones oficiales de Microsoft Learn, Azure y repositorios relacionados). La lista está organizada por las rutas del evento: <strong>Aceleradores de IA</strong> (enfocada en líderes empresariales, estrategias y soluciones agénticas para toma de decisiones) y <strong>Creadores de IA</strong> (enfocada en ingenieros y desarrolladores, con énfasis en creación, prototipado y mejores prácticas). Cada ruta incluye categorías relevantes, con un máximo de 10 recursos en total.</p>
+
+	<h3>Ruta: Aceleradores de IA</h3>
+	<p>Esta ruta se centra en acelerar la adopción de IA en entornos empresariales, con lecciones para PyMEs, estrategias y herramientas para soluciones agénticas.</p>
+
+	<h4>Fundamentos y Estrategias (5 recursos)</h4>
+	<ol>
+		<li>Podcast "Lo mejor del mes para Aceleradores de IA": Playlist de YouTube con resúmenes y highlights mensuales clave para líderes empresariales en adopción y estrategias de agentes de IA. <a href="https://www.youtube.com/playlist?list=PLBld54uQEsi6KMiIXD8WqvAKSq0RFf7vA" target="_blank" rel="noopener">https://www.youtube.com/playlist?list=PLBld54uQEsi6KMiIXD8WqvAKSq0RFf7vA</a></li>
+		<li>Centro de Aprendizaje de IA: Recorrido para líderes empresariales en adopción responsable de IA, incluyendo planeamiento y escalado de agentes. <a href="https://learn.microsoft.com/es-es/ai/" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/ai/</a></li>
+		<li>Creación de una Estrategia de Inteligencia Artificial: Guía para construir estrategias efectivas de IA usando tecnologías de Microsoft, con enfoque en adopción. <a href="https://learn.microsoft.com/es-es/azure/cloud-adoption-framework/scenarios/ai/strategy" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/azure/cloud-adoption-framework/scenarios/ai/strategy</a></li>
+		<li>Recursos de Aprendizaje de IA: Destacados de IA, fundamentos y conexión con comunidades para escalar proyectos agénticos. <a href="https://learn.microsoft.com/es-es/ai/ai-resources/" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/ai/ai-resources/</a></li>
+		<li>Introducción al Desarrollo de Agentes de IA en Azure: Conceptos básicos sobre agentes de IA y su uso en Microsoft Azure para toma de decisiones. <a href="https://learn.microsoft.com/es-es/training/modules/ai-agent-fundamentals/" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/training/modules/ai-agent-fundamentals/</a></li>
+	</ol>
+
+	<h4>Plataformas y Herramientas (3 recursos)</h4>
+	<ol start="6">
+		<li>Azure AI Foundry: Plataforma integral para explorar, construir, operar y monitorear soluciones de IA, incluyendo agentes. <a href="https://azure.microsoft.com/es-es/products/ai-foundry/" target="_blank" rel="noopener">https://azure.microsoft.com/es-es/products/ai-foundry/</a></li>
+		<li>Azure AI Foundry Agent Service: Herramientas para crear e implementar agentes de IA con seguridad integrada. <a href="https://azure.microsoft.com/es-es/products/ai-agent-service/" target="_blank" rel="noopener">https://azure.microsoft.com/es-es/products/ai-agent-service/</a></li>
+		<li>Foundry Tools: Cartera de herramientas de IA para crear agentes rápidamente, con casos empresariales. <a href="https://azure.microsoft.com/es-es/products/ai-foundry/tools" target="_blank" rel="noopener">https://azure.microsoft.com/es-es/products/ai-foundry/tools</a></li>
+	</ol>
+
+	<h4>Demostraciones y Casos (2 recursos)</h4>
+	<ol start="9">
+		<li>Microsoft AI Tour Resources (2025-2026): Recursos para crear agentes seguros e inteligentes con Azure AI Foundry y protocolos como MCP. <a href="https://adoption.microsoft.com/es-es/microsoft-ai-tour-resources/" target="_blank" rel="noopener">https://adoption.microsoft.com/es-es/microsoft-ai-tour-resources/</a></li>
+		<li>Plataforma de Azure AI: Soluciones para IA conversacional y agentes en entornos empresariales. <a href="https://azure.microsoft.com/es-es/solutions/ai" target="_blank" rel="noopener">https://azure.microsoft.com/es-es/solutions/ai</a></li>
+	</ol>
+
+	<h3>Ruta: Creadores de IA</h3>
+	<p>Esta ruta enfatiza la creación práctica de agentes de IA, con mejores prácticas, prototipado y herramientas de desarrollo.</p>
+
+	<h4>Fundamentos y Cursos (5 recursos)</h4>
+	<ol>
+		<li>Podcast "Lo mejor del mes para Creadores de IA": Playlist de YouTube con lo mejor del mes para desarrolladores de agentes de IA, tips prácticos y actualizaciones clave. <a href="https://www.youtube.com/playlist?list=PLBld54uQEsi7v8k--8Oz1j7J8Ll2TTYW0" target="_blank" rel="noopener">https://www.youtube.com/playlist?list=PLBld54uQEsi7v8k--8Oz1j7J8Ll2TTYW0</a></li>
+		<li>Agentes de IA para Principiantes: Curso de 10 lecciones del concepto al código, cubriendo creación de agentes. <a href="https://learn.microsoft.com/es-es/shows/ai-agents-for-beginners/" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/shows/ai-agents-for-beginners/</a></li>
+		<li>Desarrollo de Agentes de IA en Azure: Ruta de entrenamiento para desarrollar agentes con Microsoft Foundry Agent Service y Semantic Kernel. <a href="https://learn.microsoft.com/es-es/training/paths/develop-ai-agents-on-azure/" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/training/paths/develop-ai-agents-on-azure/</a></li>
+		<li>Inteligencia Artificial para Desarrolladores: Vídeos, tutoriales y módulos de 30 días para ampliar conocimientos en agentes de Azure AI. <a href="https://azure.microsoft.com/es-es/solutions/ai/dev-resources" target="_blank" rel="noopener">https://azure.microsoft.com/es-es/solutions/ai/dev-resources</a></li>
+		<li>Curso de Agentes de IA para Principiantes (Microsoft): Lecciones gratuitas con ejemplos en Python y frameworks como AutoGen y Azure. <a href="https://queia.es/curso-inteligencia-artificial/introduccion-agentes-de-ia-Microsoft" target="_blank" rel="noopener">https://queia.es/curso-inteligencia-artificial/introduccion-agentes-de-ia-Microsoft</a></li>
+	</ol>
+
+	<h4>Tutoriales y Guías (3 recursos)</h4>
+	<ol start="6">
+		<li>Desarrollo de Aplicaciones de Inteligencia Artificial: Aspectos básicos de IA generativa, plantillas y diseño de agentes en Azure. <a href="https://learn.microsoft.com/es-es/azure/developer/ai/" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/azure/developer/ai/</a></li>
+		<li>Tutoriales de Inteligencia Artificial y Aprendizaje Automático: Cuadernos y tutoriales rápidos para agentes en Azure Databricks. <a href="https://learn.microsoft.com/es-es/azure/databricks/machine-learning/ai-ml-tutorials" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/azure/databricks/machine-learning/ai-ml-tutorials</a></li>
+		<li>Introducción a las Aplicaciones de IA Generativas: Conceptos clave para sistemas de agentes en Azure Databricks. <a href="https://learn.microsoft.com/es-es/azure/databricks/generative-ai/guide/introduction-generative-ai-apps" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/azure/databricks/generative-ai/guide/introduction-generative-ai-apps</a></li>
+	</ol>
+
+	<h4>Ejemplos de Código y Recursos Avanzados (2 recursos)</h4>
+	<ol start="9">
+		<li>AI Agents for Beginners (GitHub en Español): 12 lecciones con código en Python, soporte para Azure AI Foundry y GitHub Models. <a href="https://microsoft.github.io/ai-agents-for-beginners/translations/es/" target="_blank" rel="noopener">https://microsoft.github.io/ai-agents-for-beginners/translations/es/</a></li>
+		<li>Agentes de IA en IA Generativa (Parte 17/18): Evolución de LLMs a agentes con marcos de IA en Microsoft Learn. <a href="https://learn.microsoft.com/es-es/shows/generative-ai-for-beginners/ai-agents-generative-ai-for-beginners" target="_blank" rel="noopener">https://learn.microsoft.com/es-es/shows/generative-ai-for-beginners/ai-agents-generative-ai-for-beginners</a></li>
+	</ol>
+</div>
