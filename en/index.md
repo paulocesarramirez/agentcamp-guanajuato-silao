@@ -22,6 +22,33 @@ permalink: /en/
 	<p><strong>Official page:</strong> <a href="https://globalai.community/agentcamp/silao/" target="_blank" rel="noopener">globalai.community/agentcamp/silao</a></p>
 </div>
 
+<div class="featured-article">
+	<h3>📰 Featured Article</h3>
+	<p>Discover how AI agents are revolutionizing industry and business in Mexico.</p>
+	<a href="/en/resources.html">Read more →</a>
+</div>
+
+<div class="content-section">
+	<h2>✨ Why AgentCamp?</h2>
+	<div class="highlight-boxes">
+		<div class="highlight-box-item">
+			<span class="icon">👥</span>
+			<h3>Active Community</h3>
+			<p>Connect with experts, developers, and business leaders passionate about AI in the Bajío region.</p>
+		</div>
+		<div class="highlight-box-item">
+			<span class="icon">🛠️</span>
+			<h3>100% Hands-On</h3>
+			<p>Practical workshops where you'll build real AI agents that you can implement immediately.</p>
+		</div>
+		<div class="highlight-box-item">
+			<span class="icon">📈</span>
+			<h3>Real Results</h3>
+			<p>Learn proven strategies and success stories for applying AI in your business or project.</p>
+		</div>
+	</div>
+</div>
+
 <div class="content-section">
 	<h2>🎓 Learning Tracks</h2>
 	<div class="profile-cards">
