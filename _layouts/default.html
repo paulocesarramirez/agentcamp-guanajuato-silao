@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="baseurl" content="{{ site.baseurl }}">
     {%- seo -%}
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {%- feed_meta -%}
@@ -14,7 +15,11 @@
     <header class="site-header" role="banner">
       <div class="wrapper">
         <div class="header-container">
-          <a class="site-logo" href="{{ '/' | relative_url }}">
+          {%- assign home_url = '/' | relative_url -%}
+          {%- if page.url contains '/en/' -%}
+            {%- assign home_url = '/en/' | relative_url -%}
+          {%- endif -%}
+          <a class="site-logo" href="{{ home_url }}">
             <img src="{{ '/assets/images/logo-global-ai.png' | relative_url }}" alt="Global AI Community" />
             <span class="site-title-text">AgentCamp Guanajuato 2026</span>
           </a>

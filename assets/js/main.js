@@ -63,7 +63,8 @@
   function toggleLanguage() {
     const currentPath = window.location.pathname;
     const baseUrl = window.location.origin;
-    const basePath = '/agentcamp-guanajuato-silao';
+    // Get base path from meta tag or default to empty string
+    const basePath = document.querySelector('meta[name="baseurl"]')?.content || '';
     
     let newPath;
     
@@ -72,12 +73,12 @@
       // Switch to Spanish
       newPath = currentPath.replace('/en/', '/');
       // Handle the case where /en/ is the homepage
-      if (newPath === basePath + '/') {
+      if (newPath === basePath + '/' || newPath === '/') {
         newPath = basePath + '/';
       }
     } else {
       // Switch to English
-      if (currentPath === basePath + '/' || currentPath === basePath) {
+      if (currentPath === basePath + '/' || currentPath === basePath || currentPath === '/') {
         newPath = basePath + '/en/';
       } else {
         // Try to find English equivalent
