@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 permalink: /en/
 ---
@@ -15,11 +15,11 @@ permalink: /en/
 </div>
 
 <div class="content-section">
-	<h2>🌐 About the Event</h2>
-	<p>Welcome! This repository hosts attendee information for the <strong>Global AI Community</strong> event in Silao, Mexico.</p>
-	<p><strong>Venue:</strong> Instituto de Innovación (Puerto Interior, Silao)</p>
-	<p><strong>Official page:</strong> <a href="https://globalai.community/agentcamp/silao/" target="_blank" rel="noopener">globalai.community/agentcamp/silao</a></p>
-	<img src="{{ site.baseurl }}/assets/images/venue-silao.jpg" alt="Sede del evento en Silao" style="width:100%; max-width:800px; border-radius:12px; margin:1.5rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+	<h2>🎯 About the Event</h2>
+	<p>Event organized by the <strong>Global AI Community (León Chapter)</strong> designed to accelerate learning and practical application of AI agents in the Bajío region.</p>
+	<p><strong>Venue:</strong> Instituto de Innovación (Puerto Interior, Silao, Gto.)</p>
+	<p><strong>Registration:</strong> 9:40–10:00 | <strong>Program:</strong> 10:00–14:30</p>
+	<img src="{{ site.baseurl }}/assets/images/venue-silao.jpg" alt="Event venue in Silao" style="width:100%; max-width:800px; border-radius:12px; margin:1.5rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 </div>
 
 <div class="content-section">
@@ -63,18 +63,26 @@ permalink: /en/
 </div>
 
 <div class="content-section">
-	<h2>🎓 Learning Tracks</h2>
+	<h2>🎓 Choose Your Learning Track</h2>
 	<div class="profile-cards">
 		<div class="profile-card">
-			<h3>💻 Creators</h3>
-			<p>Technical hands-on workshops for developers, engineers, and students</p>
+			<h3>💻 AI Creators</h3>
+			<p>For technical profiles: engineers, developers, and students. 100% hands-on workshops with modern tools.</p>
 			<a href="/en/profiles/creators/">View Technical Track →</a>
 		</div>
 		<div class="profile-card">
-			<h3>📊 Accelerators</h3>
-			<p>Executive sessions for business leaders and decision-makers</p>
+			<h3>📊 AI Accelerators</h3>
+			<p>For SME leaders, consultants, and startups. Executive focus on decisions and adoption with measurable return.</p>
 			<a href="/en/profiles/accelerators/">View Executive Track →</a>
 		</div>
+	</div>
+</div>
+
+<div class="content-section">
+	<h2>📋 Event Agenda</h2>
+	<p>Check the <a href="/en/agenda.html"><strong>Full Agenda</strong></a> for details of all sessions, workshops, and schedules.</p>
+	<div class="highlight-box">
+		<strong>Key Schedule:</strong> 10:00 Welcome & Opening | 10:50–12:20 Track 1 Workshops | 12:30–14:00 Track 2 Workshops | 14:00–14:30 Networking & Closing
 	</div>
 </div>
 
@@ -108,7 +116,25 @@ permalink: /en/
 		<li><strong>Speakers:</strong> <a href="/en/speakers.html">Meet our experts</a></li>
 		<li><strong>Logistics:</strong> <a href="/en/logistics.html">Venue and practical information</a></li>
 		<li><strong>Resources:</strong> <a href="/en/resources.html">Links and materials</a></li>
+		<li><strong>Gallery:</strong> <a href="/en/gallery.html">Photos and testimonials</a></li>
 	</ul>
+</div>
+
+<div class="content-section">
+	<h2>📍 Logistics & Practical Information</h2>
+	<p>Find all information about directions, access times, recommendations, and more in the <a href="/en/logistics.html"><strong>Logistics</strong></a> section.</p>
+</div>
+
+<div class="content-section">
+	<h2>📚 Additional Resources</h2>
+	<p>Useful links, communities, tools, and support materials available in <a href="/en/resources.html"><strong>Resources</strong></a>.</p>
+</div>
+
+<div class="content-section">
+	<h2>✉️ Contact</h2>
+	<p>For questions, coordination, or more information:</p>
+	<p>📧 <a href="mailto:contacto@emprendhec.com"><strong>contacto@emprendhec.com</strong></a></p>
+	<p>🌐 <a href="https://globalai.community/agentcamp/silao/" target="_blank" rel="noopener"><strong>Official event site</strong></a></p>
 </div>
 
 <div class="content-section">
@@ -139,10 +165,5 @@ permalink: /en/
 </div>
 
 <div class="highlight-box">
-	<p><strong>Note:</strong> The primary language of the event site is Spanish; these English pages provide a concise overview.</p>
-</div>
-
-<div class="content-section">
-	<h2>✉️ Contact</h2>
-	<p>For questions and coordination: <a href="mailto:contacto@emprendhec.com"><strong>contacto@emprendhec.com</strong></a></p>
+	<p><strong>Note:</strong> The primary language of the event site is Spanish; these English pages provide a concise overview. Some sections show "Materials pending" <span class="badge pending">Pending</span> and will be updated as workshop content is published.</p>
 </div>
