@@ -67,24 +67,57 @@
     // Get base path from meta tag or default to empty string
     const basePath = document.querySelector('meta[name="baseurl"]')?.content || '';
 
+    // Page mappings: Spanish -> English
+    const pageMap = {
+      '/galeria.html': '/en/gallery.html',
+      '/perfiles/creadores/': '/en/profiles/creators/',
+      '/perfiles/aceleradores/': '/en/profiles/accelerators/',
+      '/logistica.html': '/en/logistics.html',
+      '/recursos.html': '/en/resources.html',
+      '/agenda.html': '/en/agenda.html',
+      '/speakers.html': '/en/speakers.html'
+    };
+
     let newPath;
 
     // Check if we're on an English page
     if (currentPath.includes('/en/')) {
-      // Switch to Spanish
-      newPath = currentPath.replace('/en/', '/');
-      // Handle the case where /en/ is the homepage
-      if (newPath === basePath + '/' || newPath === '/') {
-        newPath = basePath + '/';
+      // Switch to Spanish - reverse mapping
+      newPath = currentPath.replace('/en/gallery.html', '/galeria.html')
+        .replace('/en/profiles/creators/', '/perfiles/creadores/')
+        .replace('/en/profiles/accelerators/', '/perfiles/aceleradores/')
+        .replace('/en/logistics.html', '/logistica.html')
+        .replace('/en/resources.html', '/recursos.html')
+        .replace('/en/agenda.html', '/agenda.html')
+        .replace('/en/speakers.html', '/speakers.html')
+        .replace('/en/', '/');
+
+      // Clean up the base path
+      if (basePath) {
+        newPath = newPath.replace(basePath, '');
+        newPath = basePath + newPath;
       }
     } else {
       // Switch to English
-      if (currentPath === basePath + '/' || currentPath === basePath || currentPath === '/') {
+      if (currentPath === basePath + '/' || currentPath === basePath || currentPath === '/' || currentPath.endsWith('index.html')) {
         newPath = basePath + '/en/';
       } else {
-        // Try to find English equivalent
-        const pathParts = currentPath.replace(basePath, '').split('/').filter(p => p);
-        newPath = basePath + '/en/' + pathParts.join('/');
+        // Try to find English equivalent using mapping
+        let mapped = false;
+        const pathWithoutBase = currentPath.replace(basePath, '');
+
+        for (const [spanish, english] of Object.entries(pageMap)) {
+          if (pathWithoutBase === spanish || pathWithoutBase.endsWith(spanish)) {
+            newPath = basePath + english;
+            mapped = true;
+            break;
+          }
+        }
+
+        // If no mapping found, default to English home
+        if (!mapped) {
+          newPath = basePath + '/en/';
+        }
       }
     }
 

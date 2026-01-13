@@ -39,6 +39,16 @@ header_pages:
   - logistica.md
   - recursos.md
 
+header_pages_en:
+  - en/index.md
+  - en/agenda.md
+  - en/gallery.md
+  - en/profiles/creators/index.md
+  - en/profiles/accelerators/index.md
+  - en/speakers.md
+  - en/logistics.md
+  - en/resources.md
+
 navigation:
   - name: Inicio
     link: /

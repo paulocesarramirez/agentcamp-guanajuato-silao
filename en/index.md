@@ -1,6 +1,6 @@
 ---
 layout: page
-title: English
+title: Home
 permalink: /en/
 ---
 
