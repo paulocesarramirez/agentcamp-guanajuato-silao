@@ -591,15 +591,26 @@ table {
 }
 
 thead {
-	background: var(--primary-color);
-	color: white;
+	background: var(--primary-color) !important;
+	color: white !important;
 }
 
 thead th {
 	padding: 1rem;
 	font-weight: 600;
 	text-align: left;
-	color: white;
+	color: white !important;
+	background: transparent;
+}
+
+/* Ensure good contrast in dark mode */
+[data-theme="dark"] thead {
+	background: #1e40af !important;
+	color: white !important;
+}
+
+[data-theme="dark"] thead th {
+	color: white !important;
 }
 
 tbody tr {
