@@ -596,8 +596,9 @@ thead {
 }
 
 thead th {
-	padding: 1rem;
-	font-weight: 600;
+	padding: 1.2rem;
+	font-weight: 700;
+	font-size: 1.1rem;
 	text-align: left;
 	color: white !important;
 	background: transparent;
@@ -605,7 +606,7 @@ thead th {
 
 /* Ensure good contrast in dark mode */
 [data-theme="dark"] thead {
-	background: #1e40af !important;
+	background: #1e3a8a !important;
 	color: white !important;
 }
 
