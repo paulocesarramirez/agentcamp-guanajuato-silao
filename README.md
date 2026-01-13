@@ -1,4 +1,4 @@
-# AgentCamp Guanajuato en Silao (Global AI Community)
+# AgentCamp Guanajuato en Silao (Global AI Community - Capítulo León, México)
 
 Architected by Paulo César Ramírez Silva, using GitHub Copilot.
 
@@ -9,7 +9,7 @@ A continuación encontrarás agenda, ponentes, materiales de talleres, recursos,
 - Registro: https://forms.office.com/r/M3tnkgYFs9
 
 Accesos rápidos:
-- Inicio (GitHub Pages): https://<tu-usuario>.github.io/agentcamp-guanajuato-silao/
+- Inicio (GitHub Pages): https://paulocesarramirez.github.io/agentcamp-guanajuato-silao/
 - [Agenda](agenda.md)
 - [Ponentes](speakers.md)
 - [Logística](logistica.md)
@@ -17,8 +17,7 @@ Accesos rápidos:
 - [Creadores de IA](perfiles/creadores/index.md)
 - [Aceleradores de IA](perfiles/aceleradores/index.md)
 
-Nota sobre materiales: algunas secciones están marcadas como “Materiales pendientes”.
-Se actualizarán antes del evento o el mismo día.
+Nota sobre materiales: algunas secciones se siguen actualizando con nuevos materiales.
 
 ## Idiomas
 - Español (principal)
@@ -37,7 +36,7 @@ Se actualizarán antes del evento o el mismo día.
 
 ## Descripción del Proyecto
 
-Este repositorio contiene el sitio web estático para el evento AgentCamp Guanajuato 2026, organizado por la Global AI Community. El sitio está construido con Jekyll y alojado en GitHub Pages, proporcionando información sobre el evento, incluyendo agenda, ponentes, talleres, recursos y perfiles de aprendizaje enfocados en agentes de IA.
+Este repositorio contiene el sitio web estático para el evento AgentCamp Guanajuato 2026, organizado por la [Global AI Community - Capítulo León] (https://globalai.community/chapters/leon/)) con [EmprendHEC] (https://www.emprendhec.com). El sitio está construido con Jekyll y alojado en GitHub Pages, proporcionando información sobre el evento, incluyendo agenda, ponentes, talleres, recursos y perfiles de aprendizaje enfocados en agentes de IA.
 
 El diseño es moderno, responsivo y accesible, utilizando un sistema de colores azul, verde y ámbar, con componentes reutilizables para mantener consistencia.
 
@@ -96,8 +95,6 @@ El sitio se despliega automáticamente a GitHub Pages mediante GitHub Actions.
 ### Flujos de CI/CD
 - **Despliegue Principal**: `jekyll-gh-pages.yml` - Construye y despliega el sitio en pushes a la rama main.
 - **Verificación de Enlaces**: `link-check.yml` - Ejecuta semanalmente (lunes a las 6 AM) para verificar enlaces rotos usando Lychee.
-
-Nota: Hay dos flujos de despliegue similares (`jekyll-gh-pages.yml` y `pages.yml`). Se recomienda consolidar en uno solo para evitar ejecuciones duplicadas. Mantener `jekyll-gh-pages.yml` como el principal, ya que es el estándar de GitHub y tiene configuraciones de concurrencia más robustas.
 
 ### Configuración de GitHub Pages
 - Rama de despliegue: gh-pages (generada automáticamente)
