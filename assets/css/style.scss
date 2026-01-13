@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "minima";
 
 /* ========================================
@@ -38,15 +39,19 @@
    GLOBAL STYLES
    ======================================== */
 html {
-	transition: background-color 0.3s ease, color 0.3s ease;
+	transition:
+		background-color 0.3s ease,
+		color 0.3s ease;
 }
 
 body {
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 	color: var(--text-dark);
 	line-height: 1.7;
 	background-color: var(--bg-light);
-	transition: background-color 0.3s ease, color 0.3s ease;
+	transition:
+		background-color 0.3s ease,
+		color 0.3s ease;
 }
 
 .site-header {
@@ -57,7 +62,9 @@ body {
 	border-bottom: 1px solid var(--border-color);
 	box-shadow: var(--shadow-sm);
 	background: var(--bg-white);
-	transition: background-color 0.3s ease, border-color 0.3s ease;
+	transition:
+		background-color 0.3s ease,
+		border-color 0.3s ease;
 }
 
 .header-container {
@@ -73,6 +80,7 @@ body {
 	gap: 0.75rem;
 	text-decoration: none;
 	transition: opacity 0.2s ease;
+	flex-shrink: 0;
 }
 
 .site-logo:hover {
@@ -85,13 +93,14 @@ body {
 }
 
 .site-title-text {
-	font-size: 1.1rem;
+	font-size: 1rem;
 	font-weight: 600;
 	color: var(--text-dark);
+	white-space: nowrap;
 }
 
-.site-title { 
-	display: none !important; 
+.site-title {
+	display: none !important;
 }
 
 .site-nav {
@@ -104,6 +113,7 @@ body {
 	display: flex;
 	align-items: center;
 	gap: 1.5rem;
+	margin-left: 2rem;
 }
 
 .site-nav .page-link {
@@ -173,13 +183,13 @@ body {
 	.site-nav {
 		position: relative;
 	}
-	
+
 	.menu-icon {
 		display: block;
 		cursor: pointer;
 		padding: 0.5rem;
 	}
-	
+
 	.menu-icon span {
 		display: block;
 		width: 25px;
@@ -189,7 +199,7 @@ body {
 		transition: 0.3s;
 		border-radius: 2px;
 	}
-	
+
 	.site-nav .trigger {
 		position: absolute;
 		top: 100%;
@@ -206,11 +216,11 @@ body {
 		min-width: 200px;
 		margin-top: 0.5rem;
 	}
-	
+
 	.nav-trigger:checked ~ .trigger {
 		display: flex;
 	}
-	
+
 	.header-controls {
 		margin-left: 0;
 		padding-left: 0;
@@ -219,11 +229,11 @@ body {
 		padding-top: 0.5rem;
 		justify-content: stretch;
 	}
-	
+
 	.control-button {
 		flex: 1;
 	}
-	
+
 	.site-title-text {
 		display: none;
 	}
@@ -281,7 +291,9 @@ body {
 	text-decoration: none;
 	margin-top: 1.5rem;
 	box-shadow: var(--shadow-md);
-	transition: transform 0.2s ease, box-shadow 0.2s ease;
+	transition:
+		transform 0.2s ease,
+		box-shadow 0.2s ease;
 }
 
 .hero-cta:hover {
@@ -295,15 +307,15 @@ body {
 		padding: 2rem 1rem;
 		margin: -1rem -1rem 1.5rem -1rem;
 	}
-	
+
 	.hero-section h1 {
 		font-size: 1.75rem;
 	}
-	
+
 	.hero-section .hero-subtitle {
 		font-size: 1rem;
 	}
-	
+
 	.hero-section .hero-meta {
 		gap: 1rem;
 		font-size: 0.875rem;
@@ -354,7 +366,10 @@ body {
 	border-radius: 12px;
 	padding: 2rem;
 	text-align: center;
-	transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+	transition:
+		transform 0.2s ease,
+		box-shadow 0.2s ease,
+		border-color 0.2s ease;
 	box-shadow: var(--shadow-sm);
 }
 
@@ -384,7 +399,9 @@ body {
 	padding: 0.5rem 1.5rem;
 	border: 2px solid var(--primary-color);
 	border-radius: 6px;
-	transition: background 0.2s ease, color 0.2s ease;
+	transition:
+		background 0.2s ease,
+		color 0.2s ease;
 }
 
 .profile-card a:hover {
@@ -408,7 +425,9 @@ body {
 	border-radius: 12px;
 	padding: 2rem;
 	text-align: center;
-	transition: transform 0.2s ease, box-shadow 0.2s ease;
+	transition:
+		transform 0.2s ease,
+		box-shadow 0.2s ease;
 	box-shadow: var(--shadow-sm);
 }
 
@@ -471,7 +490,9 @@ body {
 	border-radius: 6px;
 	font-weight: 600;
 	text-decoration: none;
-	transition: transform 0.2s ease, box-shadow 0.2s ease;
+	transition:
+		transform 0.2s ease,
+		box-shadow 0.2s ease;
 }
 
 .featured-article a:hover {
@@ -532,11 +553,11 @@ body {
 }
 
 @media (max-width: 640px) {
-	.speaker-card { 
+	.speaker-card {
 		flex-direction: column;
 		text-align: center;
 	}
-	.speaker-card img { 
+	.speaker-card img {
 		height: 100px;
 		width: 100px;
 		margin: 0 auto;
@@ -595,7 +616,7 @@ tbody tr:last-child {
 		overflow-x: auto;
 		-webkit-overflow-scrolling: touch;
 	}
-	
+
 	thead th,
 	tbody td {
 		padding: 0.625rem 0.75rem;
@@ -620,7 +641,9 @@ tbody tr:last-child {
 }
 
 .logo-grid a {
-	transition: transform 0.2s ease, opacity 0.2s ease;
+	transition:
+		transform 0.2s ease,
+		opacity 0.2s ease;
 	opacity: 0.9;
 }
 
@@ -645,7 +668,9 @@ tbody tr:last-child {
 	border-radius: 8px;
 	font-weight: 600;
 	text-decoration: none;
-	transition: background 0.2s ease, transform 0.2s ease;
+	transition:
+		background 0.2s ease,
+		transform 0.2s ease;
 }
 
 .btn-primary:hover {
@@ -690,12 +715,12 @@ tbody tr:last-child {
 		padding: 1.5rem;
 		margin: 1.5rem 0;
 	}
-	
+
 	.logo-grid {
 		gap: 1rem;
 		padding: 1rem;
 	}
-	
+
 	.logo-grid img {
 		height: 48px;
 	}
@@ -709,7 +734,9 @@ tbody tr:last-child {
 	background: var(--bg-light);
 	padding: 2rem 0;
 	margin-top: 3rem;
-	transition: background-color 0.3s ease, border-color 0.3s ease;
+	transition:
+		background-color 0.3s ease,
+		border-color 0.3s ease;
 }
 
 .footer-content {

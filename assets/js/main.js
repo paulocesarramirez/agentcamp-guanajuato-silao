@@ -3,20 +3,20 @@
  * Handles dark mode toggle and language switching
  */
 
-(function() {
+(function () {
   'use strict';
 
   // ========================================
   // DARK MODE FUNCTIONALITY
   // ========================================
-  
+
   /**
    * Initialize dark mode based on user preference or system setting
    */
   function initDarkMode() {
     const savedTheme = localStorage.getItem('theme');
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    
+
     // Apply saved theme or system preference
     if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
       document.documentElement.setAttribute('data-theme', 'dark');
@@ -33,7 +33,7 @@
   function toggleDarkMode() {
     const currentTheme = document.documentElement.getAttribute('data-theme');
     const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    
+
     document.documentElement.setAttribute('data-theme', newTheme);
     localStorage.setItem('theme', newTheme);
     updateDarkModeButton(newTheme === 'dark');
@@ -47,16 +47,17 @@
     if (button) {
       const icon = button.querySelector('.toggle-icon');
       if (icon) {
-        icon.textContent = isDark ? '☀️' : '🌙';
+        // When in dark mode, show sun (to switch to light); when in light mode, show moon (to switch to dark)
+        icon.textContent = isDark ? '🌙' : '☀️';
       }
-      button.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+      button.setAttribute('aria-label', isDark ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro');
     }
   }
 
   // ========================================
   // LANGUAGE TOGGLE FUNCTIONALITY
   // ========================================
-  
+
   /**
    * Toggle between Spanish and English versions
    */
@@ -65,9 +66,9 @@
     const baseUrl = window.location.origin;
     // Get base path from meta tag or default to empty string
     const basePath = document.querySelector('meta[name="baseurl"]')?.content || '';
-    
+
     let newPath;
-    
+
     // Check if we're on an English page
     if (currentPath.includes('/en/')) {
       // Switch to Spanish
@@ -86,7 +87,7 @@
         newPath = basePath + '/en/' + pathParts.join('/');
       }
     }
-    
+
     window.location.href = newPath;
   }
 
@@ -98,35 +99,36 @@
     if (button) {
       const currentPath = window.location.pathname;
       const isEnglish = currentPath.includes('/en/');
+      // When in English, show ES (to switch to Spanish); when in Spanish, show EN (to switch to English)
       button.textContent = isEnglish ? 'ES' : 'EN';
-      button.setAttribute('aria-label', isEnglish ? 'Cambiar a español' : 'Switch to English');
+      button.setAttribute('aria-label', isEnglish ? 'Switch to Spanish' : 'Cambiar a inglés');
     }
   }
 
   // ========================================
   // INITIALIZATION
   // ========================================
-  
+
   /**
    * Set up event listeners when DOM is ready
    */
   function init() {
     // Initialize dark mode
     initDarkMode();
-    
+
     // Set up dark mode toggle button
     const darkModeButton = document.getElementById('dark-mode-toggle');
     if (darkModeButton) {
       darkModeButton.addEventListener('click', toggleDarkMode);
     }
-    
+
     // Set up language toggle button
     const languageButton = document.getElementById('language-toggle');
     if (languageButton) {
       languageButton.addEventListener('click', toggleLanguage);
       updateLanguageButton();
     }
-    
+
     // Listen for system theme changes
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
       if (!localStorage.getItem('theme')) {
