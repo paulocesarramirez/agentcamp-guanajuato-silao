@@ -26,3 +26,12 @@ See the full announcement:
 Quick links:
 - [Creators](./profiles/creators/)
 - [Accelerators](./profiles/accelerators/)
+
+## Next Steps and Follow-Up
+
+After the event, we will contact participants to continue learning and collaboration:
+
+- **Additional practical workshops:** Hands-on sessions to deepen AI agent techniques.
+- **Personalized mentoring:** Opportunities for individual or group guidance, including paid options for advanced support.
+- **Specialized courses:** Programs on Azure, automation, and other AI tools.
+- **Active community:** Interaction platform for ongoing networking, knowledge sharing, and collaborative projects.

@@ -21,6 +21,19 @@ permalink: /en/
 	<p><strong>Official page:</strong> <a href="https://globalai.community/agentcamp/silao/" target="_blank" rel="noopener">globalai.community/agentcamp/silao</a></p>
 </div>
 
+<div class="content-section">
+	<h2>💬 What Attendees Say</h2>
+	<div class="testimonials">
+		<blockquote>"Excellent event, trending and updated technologies."</blockquote>
+		<blockquote>"Very good course with very valuable information and the company of the AI community."</blockquote>
+		<blockquote>"This event paves the way for experimentation on AI, something already necessary for many companies."</blockquote>
+	</div>
+	<div class="highlight-box">
+		<p><strong>More than 80% of attendees would recommend us!</strong> Thank you for trusting AgentCamp. (NPS +84)</p>
+	</div>
+	<p><em>AgentCamp Guanajuato: the first event in the world that connects AI creators and accelerators to transform the industry.</em></p>
+</div>
+
 <div class="featured-article">
 	<h3>📰 Featured Article</h3>
 	<p>Discover how AI agents are revolutionizing industry and business in Mexico.</p>

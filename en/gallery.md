@@ -6,7 +6,26 @@ permalink: /en/gallery.html
 
 # Gallery & Comments
 
-We will publish featured photos and short testimonials here.
+## Attendee Testimonials
+
+<div class="testimonials">
+	<blockquote>"I liked the way the topic of AI Agents was approached, it was very innovative." <cite>— AI Creators Participant</cite></blockquote>
+	<blockquote>"Excellent event, trending and updated technologies." <cite>— AI Creators Participant</cite></blockquote>
+	<blockquote>"Very good course with very valuable information and the company of the AI community." <cite>— AI Creators Participant</cite></blockquote>
+	<blockquote>"Thanks for the invitation, keep doing events like this." <cite>— AI Accelerators Participant</cite></blockquote>
+	<blockquote>"The vision of collaboration for the AI community in the state." <cite>— AI Accelerators Participant</cite></blockquote>
+	<blockquote>"I loved how much we've advanced and all the possibilities we have ahead with AI." <cite>— AI Creators Participant</cite></blockquote>
+	<blockquote>"This event paves the way for experimentation on AI, something already necessary for many companies." <cite>— AI Creators Participant</cite></blockquote>
+</div>
+
+## Strategic Insights
+
+<ul>
+	<li><strong>First event of its kind worldwide:</strong> "AgentCamp Guanajuato is pioneering in bringing together AI creators and accelerators in the same space to drive business innovation."</li>
+	<li><strong>Community impact:</strong> "The event is generating an active community seeking collaboration, mentoring, and practical workshops."</li>
+	<li><strong>High satisfaction:</strong> "With an NPS of +84, attendees highly recommend this type of encounters."</li>
+	<li><strong>Clear demand:</strong> "Participants request more practical workshops, prior content, and networking spaces."</li>
+</ul>
 
 ## Event Photos
 

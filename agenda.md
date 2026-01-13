@@ -44,6 +44,17 @@ permalink: /agenda.html
 	</div>
 </div>
 
+<div class="content-section">
+	<h2>🔄 Próximos Pasos y Seguimiento</h2>
+	<p>Después del evento, contactaremos a los participantes para continuar el aprendizaje y la colaboración:</p>
+	<ul>
+		<li><strong>Talleres prácticos adicionales:</strong> Sesiones hands-on para profundizar en técnicas de agentes de IA.</li>
+		<li><strong>Mentorías personalizadas:</strong> Oportunidades de guía individual o grupal, incluyendo opciones con costo para soporte avanzado.</li>
+		<li><strong>Cursos especializados:</strong> Programas sobre Azure, automatización y otras herramientas de IA.</li>
+		<li><strong>Comunidad activa:</strong> Plataforma de interacción para networking continuo, compartir conocimientos y proyectos colaborativos.</li>
+	</ul>
+</div>
+
 <div class="highlight-box">
 	<p><strong>📢 Más información:</strong> Consulta el anuncio completo con contexto ampliado en 
 	<a href="https://www.emprendhec.com/post/agentcamp-guanajuato-2026-en-silao-global-ai-community" target="_blank" rel="noopener">EmprendHEC — AgentCamp Guanajuato 2026 en Silao</a></p>

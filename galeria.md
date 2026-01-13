@@ -6,7 +6,23 @@ permalink: /galeria.html
 
 <div class="content-section">
 	<h2>📸 Galería y Testimonios</h2>
-	<p>Aquí publicaremos las fotos destacadas y testimonios del AgentCamp Guanajuato 2026 después del evento.</p>
+	<h3>Testimonios de Asistentes</h3>
+	<div class="testimonials">
+		<blockquote>"Me gustó la forma en que se abordó el tema de Agentes de IA, fue muy novedoso." <cite>— Participante Creadores de IA</cite></blockquote>
+		<blockquote>"Excelente evento, tecnologías en tendencia y actualizadas." <cite>— Participante Creadores de IA</cite></blockquote>
+		<blockquote>"Muy buen curso con información muy valiosa y la compañía de la comunidad de IA." <cite>— Participante Creadores de IA</cite></blockquote>
+		<blockquote>"Gracias por la invitación, sigan haciendo eventos como este." <cite>— Participante Aceleradores de IA</cite></blockquote>
+		<blockquote>"La visión de colaboración para la comunidad de IA en el estado." <cite>— Participante Aceleradores de IA</cite></blockquote>
+		<blockquote>"Me encantó cómo hemos avanzado tanto y todas las posibilidades que tenemos por delante con la IA." <cite>— Participante Creadores de IA</cite></blockquote>
+		<blockquote>"Este evento abre camino para la experimentación sobre IA, algo ya necesario para muchas empresas." <cite>— Participante Creadores de IA</cite></blockquote>
+	</div>
+	<h3>Insights Estratégicos</h3>
+	<ul>
+		<li><strong>Primer evento en su tipo a nivel mundial:</strong> "AgentCamp Guanajuato es pionero en reunir creadores y aceleradores de IA en un mismo espacio para impulsar innovación empresarial."</li>
+		<li><strong>Impacto en la comunidad:</strong> "El evento está generando una comunidad activa que busca colaboración, mentorías y talleres prácticos."</li>
+		<li><strong>Alta satisfacción:</strong> "Con un NPS de +84, los asistentes recomiendan ampliamente este tipo de encuentros."</li>
+		<li><strong>Demanda clara:</strong> "Los participantes solicitan más talleres prácticos, contenido previo y espacios para networking."</li>
+	</ul>
 </div>
 
 <div class="content-section">

@@ -22,6 +22,19 @@ permalink: /
 	<img src="assets/images/venue-silao.jpg" alt="Sede del evento en Silao" style="width:100%; max-width:800px; border-radius:12px; margin:1.5rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 </div>
 
+<div class="content-section">
+	<h2>💬 Lo que dicen los asistentes</h2>
+	<div class="testimonials">
+		<blockquote>"Excelente evento, tecnologías en tendencia y actualizadas."</blockquote>
+		<blockquote>"Muy buen curso con información muy valiosa y la compañía de la comunidad de IA."</blockquote>
+		<blockquote>"Este evento abre camino para la experimentación sobre IA, algo ya necesario para muchas empresas."</blockquote>
+	</div>
+	<div class="highlight-box">
+		<p><strong>¡Más del 80% de los asistentes nos recomendarían!</strong> Gracias por confiar en AgentCamp. (NPS +84)</p>
+	</div>
+	<p><em>AgentCamp Guanajuato: el primer evento en el mundo que conecta creadores y aceleradores de IA para transformar la industria.</em></p>
+</div>
+
 <div class="featured-article">
 	<h3>📰 Artículo Destacado</h3>
 	<p>Descubre cómo los agentes de IA están revolucionando la industria y los negocios en México.</p>
