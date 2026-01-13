@@ -73,3 +73,6 @@ permalink: /en/speakers.html
 		</div>
 	</div>
 </div>
+<div class="highlight-box">
+<p><strong>Want to know more about their sessions?</strong> Check the <a href="/en/agenda.html">Full Agenda</a> to see specific schedules and topics.</p>
+</div>
