@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'es' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="baseurl" content="{{ site.baseurl }}">
+    {%- seo -%}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {%- feed_meta -%}
+    <link rel="icon" type="image/png" href="{{ '/assets/images/logo-global-ai.png' | relative_url }}">
+  </head>
+
+  <body>
+    <header class="site-header" role="banner">
+      <div class="wrapper">
+        <div class="header-container">
+          {%- assign home_url = '/' | relative_url -%}
+          {%- if page.url contains '/en/' -%}
+            {%- assign home_url = '/en/' | relative_url -%}
+          {%- endif -%}
+          <a class="site-logo" href="{{ home_url }}">
+            <img src="{{ '/assets/images/logo-global-ai.png' | relative_url }}" alt="Global AI Community" />
+            <span class="site-title-text">AgentCamp Guanajuato 2026</span>
+          </a>
+          
+          <nav class="site-nav" aria-label="Main navigation">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+            <label for="nav-trigger" class="menu-icon">
+              <span></span>
+              <span></span>
+              <span></span>
+            </label>
+
+            <div class="trigger">
+              {%- for path in site.header_pages -%}
+                {%- assign my_page = site.pages | where: "path", path | first -%}
+                {%- if my_page.title -%}
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {%- endif -%}
+              {%- endfor -%}
+              
+              <div class="header-controls">
+                <button id="language-toggle" class="control-button" aria-label="Switch language">
+                  EN
+                </button>
+                <button id="dark-mode-toggle" class="control-button dark-mode-btn" aria-label="Toggle dark mode">
+                  <span class="toggle-icon">🌙</span>
+                </button>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer h-card">
+      <div class="wrapper">
+        <div class="footer-content">
+          <p>© 2026 Global AI Community León | AgentCamp Guanajuato</p>
+          <p>
+            <a href="https://globalai.community/chapters/leon/" target="_blank" rel="noopener">Global AI León</a> | 
+            <a href="https://www.emprendhec.com" target="_blank" rel="noopener">EmprendHEC</a> | 
+            <a href="mailto:contacto@emprendhec.com">Contacto</a>
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
+  </body>
+</html>

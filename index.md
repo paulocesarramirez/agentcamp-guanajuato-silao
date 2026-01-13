@@ -23,6 +23,33 @@ permalink: /
 	<img src="assets/images/venue-silao.jpg" alt="Sede del evento en Silao" style="width:100%; max-width:800px; border-radius:12px; margin:1.5rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 </div>
 
+<div class="featured-article">
+	<h3>📰 Artículo Destacado</h3>
+	<p>Descubre cómo los agentes de IA están revolucionando la industria y los negocios en México.</p>
+	<a href="recursos.html">Leer más →</a>
+</div>
+
+<div class="content-section">
+	<h2>✨ ¿Por qué AgentCamp?</h2>
+	<div class="highlight-boxes">
+		<div class="highlight-box-item">
+			<span class="icon">👥</span>
+			<h3>Comunidad Activa</h3>
+			<p>Conecta con expertos, desarrolladores y líderes empresariales apasionados por la IA en el Bajío.</p>
+		</div>
+		<div class="highlight-box-item">
+			<span class="icon">🛠️</span>
+			<h3>100% Práctico</h3>
+			<p>Talleres hands-on donde construirás agentes de IA reales que podrás implementar inmediatamente.</p>
+		</div>
+		<div class="highlight-box-item">
+			<span class="icon">📈</span>
+			<h3>Resultados Reales</h3>
+			<p>Aprende estrategias probadas y casos de éxito para aplicar IA en tu negocio o proyecto.</p>
+		</div>
+	</div>
+</div>
+
 <div class="content-section">
 	<h2>🎓 Elige tu Ruta de Aprendizaje</h2>
 	<div class="profile-cards">
