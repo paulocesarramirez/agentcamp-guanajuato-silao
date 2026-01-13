@@ -12,7 +12,6 @@ permalink: /en/
 		<div class="hero-meta-item">🕐 10:00–14:30 CST</div>
 		<div class="hero-meta-item">📍 Silao, Guanajuato, Mexico</div>
 	</div>
-	<a href="https://forms.office.com/r/M3tnkgYFs9" class="hero-cta" target="_blank" rel="noopener">Register Now</a>
 </div>
 
 <div class="content-section">

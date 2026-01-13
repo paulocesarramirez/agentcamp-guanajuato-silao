@@ -12,7 +12,6 @@ permalink: /
 		<div class="hero-meta-item">🕐 10:00–14:30 hrs</div>
 		<div class="hero-meta-item">📍 Silao, Guanajuato</div>
 	</div>
-	<a href="https://forms.office.com/r/M3tnkgYFs9" class="hero-cta" target="_blank" rel="noopener">Regístrate Ahora</a>
 </div>
 
 <div class="content-section">
