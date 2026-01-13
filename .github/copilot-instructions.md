@@ -19,7 +19,7 @@ This is a Jekyll-based static website for the AgentCamp Guanajuato 2026 event, h
 - **Front Matter**: Always include `layout`, `title`, and `permalink` (e.g., `permalink: /talleres/mejores-practicas-agentes/`)
 - **HTML Classes**: Use semantic classes like `hero-section`, `content-section`, `profile-cards` for styling consistency
 - **Bilingual Sync**: When adding content, create parallel versions in both languages with matching structure
-- **Images**: Place in `assets/images/` with descriptive names (e.g., `venue-silao.jpg`)
+- **Images**: Place in `assets/images/` with descriptive names (e.g., `venue-silao.jpg`). **Always use absolute paths** with Jekyll liquid syntax: `{{ site.baseurl }}/assets/images/filename.jpg` to ensure proper rendering across all pages
 - **Links**: Prefer permanent URLs; mark temporary ones as "Materiales pendientes" (Spanish) or "Materials pending" (English)
 
 ## Development Workflow

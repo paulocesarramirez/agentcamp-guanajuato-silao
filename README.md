@@ -21,7 +21,7 @@ Nota sobre materiales: algunas secciones se siguen actualizando con nuevos mater
 
 ## Idiomas
 - Español (principal)
-- English (overview): en/ (work-in-progress)
+- English (complete): en/
 
 ## Licencia de contenidos
 - Textos y guías: © Organizadores del capítulo local. Reutilización con atribución.
@@ -116,6 +116,7 @@ Este repositorio está diseñado para ser fácilmente adaptable a otros eventos 
 3. **Ajusta Diseño**:
    - Modifica colores en `assets/css/style.scss`
    - Actualiza imágenes en `assets/images/`
+   - **Importante**: Usa rutas absolutas para imágenes: `{{ site.baseurl }}/assets/images/nombre.jpg`
 
 4. **Configura Flujos**:
    - Asegúrate de que los workflows estén activos

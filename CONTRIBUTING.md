@@ -6,6 +6,7 @@
 - Abre un Issue con el contexto y enlaces.
 - Envía un Pull Request con cambios descriptivos.
 - Para imágenes, colócalas en `assets/images/` con nombres claros.
+- **Importante**: Usa siempre rutas absolutas para imágenes: `{{ site.baseurl }}/assets/images/nombre.jpg`
 
 ## Estilo de contenido
 - Español claro y conciso; si agregas inglés, colócalo en `en/`.

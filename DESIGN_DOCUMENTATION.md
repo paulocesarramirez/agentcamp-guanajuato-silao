@@ -111,9 +111,11 @@ Background:       #f9fafb - Subtle sections
 **Usage:**
 ```html
 <div class="logo-grid">
-  <a href="#"><img src="logo.png" alt="Partner" /></a>
+  <a href="#"><img src="{{ site.baseurl }}/assets/images/logo.png" alt="Partner" /></a>
 </div>
 ```
+
+**Important:** Always use absolute paths with `{{ site.baseurl }}` for images to ensure they work across all pages and directory levels.
 
 #### 6. Highlight Boxes
 **Purpose:** Emphasize important information
@@ -195,6 +197,51 @@ Background:       #f9fafb - Subtle sections
 - Vertical speaker cards
 - Smaller images
 - Touch-friendly buttons
+
+---
+
+### 🖼️ Image Path Best Practices
+
+#### Always Use Absolute Paths
+To ensure images display correctly across all pages (especially in subdirectories like `/en/`, `/talleres/`, etc.), always use Jekyll's `site.baseurl` variable:
+
+**✅ Correct:**
+```html
+<img src="{{ site.baseurl }}/assets/images/venue-silao.jpg" alt="Event venue" />
+```
+
+**❌ Incorrect:**
+```html
+<img src="assets/images/venue-silao.jpg" alt="Event venue" />
+```
+
+#### Why Absolute Paths?
+- **Multi-level directories**: Relative paths break when pages are in subdirectories
+- **Bilingual support**: English pages in `/en/` need same images as root pages
+- **GitHub Pages**: The `baseurl` ensures proper path resolution with the repository name
+- **Consistency**: All images work regardless of page location
+
+#### Examples by Component
+
+**Hero Images:**
+```html
+<img src="{{ site.baseurl }}/assets/images/venue-silao.jpg" alt="Venue" />
+```
+
+**Speaker Photos:**
+```html
+<img src="{{ site.baseurl }}/assets/images/speaker-name.jpg" alt="Speaker name" />
+```
+
+**Logos:**
+```html
+<img src="{{ site.baseurl }}/assets/images/logo-partner.png" alt="Partner logo" />
+```
+
+**Gallery Images:**
+```html
+<img src="{{ site.baseurl }}/assets/images/Galeria/Fotos/photo-01.jpg" alt="Event photo 1" />
+```
 
 ---
 
@@ -367,6 +414,7 @@ Edit CSS variables in `assets/css/style.scss`:
 
 ---
 
-**Version:** 1.0  
-**Date:** January 7, 2026  
-**Status:** Production Ready ✅
+**Version:** 1.1  
+**Date:** January 13, 2026  
+**Status:** Production Ready ✅  
+**Updates:** Added image path best practices section

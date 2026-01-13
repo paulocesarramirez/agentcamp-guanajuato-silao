@@ -22,7 +22,7 @@ permalink: /recursos.html
 <div class="content-section">
 	<h2>🤝 Capítulo Local y Aliados</h2>
 	<div class="logo-grid">
-		<img src="assets/images/global-ai-leon.png" alt="Global AI León (Capítulo local)" />
+		<img src="{{ site.baseurl }}/assets/images/global-ai-leon.png" alt="Global AI León (Capítulo local)" />
 	</div>
 	
 	<ul>
@@ -35,13 +35,13 @@ permalink: /recursos.html
 	<h2>💼 Organizadores y Aliados</h2>
 	<div class="logo-grid">
 		<a href="https://www.emprendhec.com" aria-label="EmprendHEC" target="_blank" rel="noopener">
-			<img src="assets/images/logo-emprendhec.png" alt="EmprendHEC" style="height:48px" />
+			<img src="{{ site.baseurl }}/assets/images/logo-emprendhec.png" alt="EmprendHEC" style="height:48px" />
 		</a>
 		<a href="https://tutor-ia.tech" aria-label="Tutor-IA" target="_blank" rel="noopener">
-			<img src="assets/images/logo-tutor-ia.png" alt="Tutor-IA" style="height:48px" />
+			<img src="{{ site.baseurl }}/assets/images/logo-tutor-ia.png" alt="Tutor-IA" style="height:48px" />
 		</a>
 		<a href="https://innovacion.guanajuato.gob.mx/" aria-label="Instituto de Innovación Guanajuato" target="_blank" rel="noopener">
-			<img src="assets/images/logo-instinnovacion.png" alt="Instituto de Innovación Guanajuato" style="height:48px" />
+			<img src="{{ site.baseurl }}/assets/images/logo-instinnovacion.png" alt="Instituto de Innovación Guanajuato" style="height:48px" />
 		</a>
 	</div>
 </div>

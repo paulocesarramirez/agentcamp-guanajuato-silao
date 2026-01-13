@@ -19,7 +19,7 @@ permalink: /
 	<p>Evento organizado por la <strong>Global AI Community (Capítulo León)</strong> diseñado para impulsar el aprendizaje y la aplicación práctica de agentes de IA en la región del Bajío.</p>
 	<p><strong>Sede:</strong> Instituto de Innovación (Puerto Interior, Silao, Gto.)</p>
 	<p><strong>Registro:</strong> 9:40–10:00 | <strong>Programa:</strong> 10:00–14:30</p>
-	<img src="assets/images/venue-silao.jpg" alt="Sede del evento en Silao" style="width:100%; max-width:800px; border-radius:12px; margin:1.5rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+	<img src="{{ site.baseurl }}/assets/images/venue-silao.jpg" alt="Sede del evento en Silao" style="width:100%; max-width:800px; border-radius:12px; margin:1.5rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 </div>
 
 <div class="content-section">
@@ -113,10 +113,10 @@ permalink: /
 	<h2>🤝 Organiza</h2>
 	<div class="logo-grid">
 		<a href="https://globalai.community/" aria-label="Global AI Community" target="_blank" rel="noopener">
-			<img src="assets/images/logo-global-ai.png" alt="Global AI Community" />
+			<img src="{{ site.baseurl }}/assets/images/logo-global-ai.png" alt="Global AI Community" />
 		</a>
 		<a href="https://globalai.community/chapters/leon/" aria-label="Global AI León" target="_blank" rel="noopener">
-			<img src="assets/images/global-ai-leon.png" alt="Global AI León" />
+			<img src="{{ site.baseurl }}/assets/images/global-ai-leon.png" alt="Global AI León" />
 		</a>
 	</div>
 </div>
@@ -125,13 +125,13 @@ permalink: /
 	<h2>💼 Organizadores y Aliados</h2>
 	<div class="logo-grid">
 		<a href="https://www.emprendhec.com" aria-label="EmprendHEC" target="_blank" rel="noopener">
-			<img src="assets/images/logo-emprendhec.png" alt="EmprendHEC" />
+			<img src="{{ site.baseurl }}/assets/images/logo-emprendhec.png" alt="EmprendHEC" />
 		</a>
 		<a href="https://tutor-ia.tech" aria-label="Tutor-IA" target="_blank" rel="noopener">
-			<img src="assets/images/logo-tutor-ia.png" alt="Tutor-IA" />
+			<img src="{{ site.baseurl }}/assets/images/logo-tutor-ia.png" alt="Tutor-IA" />
 		</a>
 		<a href="https://innovacion.guanajuato.gob.mx/" aria-label="Instituto de Innovación Guanajuato" target="_blank" rel="noopener">
-			<img src="assets/images/logo-instinnovacion.png" alt="Instituto de Innovación Guanajuato" />
+			<img src="{{ site.baseurl }}/assets/images/logo-instinnovacion.png" alt="Instituto de Innovación Guanajuato" />
 		</a>
 	</div>
 </div>
