@@ -19,6 +19,7 @@ permalink: /en/
 	<p>Welcome! This repository hosts attendee information for the <strong>Global AI Community</strong> event in Silao, Mexico.</p>
 	<p><strong>Venue:</strong> Instituto de Innovación (Puerto Interior, Silao)</p>
 	<p><strong>Official page:</strong> <a href="https://globalai.community/agentcamp/silao/" target="_blank" rel="noopener">globalai.community/agentcamp/silao</a></p>
+	<img src="assets/images/venue-silao.jpg" alt="Sede del evento en Silao" style="width:100%; max-width:800px; border-radius:12px; margin:1.5rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 </div>
 
 <div class="content-section">
