@@ -744,10 +744,7 @@ tbody tr:last-child {
 	background: #ef4444;
 }
 
-.badge.confirmed {
-	background: var(--secondary-color);
-}
-
+.badge.confirmed,
 .badge.updated {
 	background: var(--secondary-color);
 }
