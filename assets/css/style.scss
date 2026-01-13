@@ -72,6 +72,8 @@ body {
 	align-items: center;
 	justify-content: space-between;
 	padding: 1rem 0;
+	flex-wrap: wrap;
+	gap: 0.5rem;
 }
 
 .site-logo {
@@ -107,12 +109,15 @@ body {
 	line-height: 2.5;
 	display: flex;
 	align-items: center;
+	flex: 1;
+	min-width: 0;
 }
 
 .site-nav .trigger {
 	display: flex;
 	align-items: center;
-	gap: 1.5rem;
+	gap: 1rem;
+	flex-wrap: wrap;
 }
 
 .site-nav .page-link {
@@ -123,7 +128,7 @@ body {
 }
 
 .site-nav .page-link:first-of-type {
-	margin-left: 2rem;
+	margin-left: 1rem;
 }
 
 .site-nav .page-link:hover {
@@ -144,9 +149,10 @@ body {
 	display: flex !important;
 	gap: 0.5rem;
 	align-items: center;
-	margin-left: 1rem;
+	margin-left: auto;
 	padding-left: 1rem;
 	border-left: 1px solid var(--border-color);
+	flex-shrink: 0;
 }
 
 .control-button {
@@ -613,6 +619,23 @@ tbody td {
 
 tbody tr:last-child {
 	border-bottom: none;
+}
+
+/* Dark mode specific table styling */
+[data-theme="dark"] tbody tr {
+	background: #1f2937;
+}
+
+[data-theme="dark"] tbody tr:hover {
+	background: #374151;
+}
+
+[data-theme="dark"] tbody tr:nth-child(even) {
+	background: #111827;
+}
+
+[data-theme="dark"] tbody tr:nth-child(even):hover {
+	background: #374151;
 }
 
 /* Responsive table wrapper for mobile */
