@@ -30,7 +30,7 @@ permalink: /
 		<blockquote>"Este evento abre camino para la experimentación sobre IA, algo ya necesario para muchas empresas."</blockquote>
 	</div>
 	<div class="highlight-box">
-		<p><strong>¡Más del 80% de los asistentes nos recomendarían!</strong> Gracias por confiar en AgentCamp. (NPS +84)</p>
+		<p><strong>¡Casi el 90% de los asistentes nos recomendarían!</strong> Gracias por confiar en AgentCamp. (NPS=87)</p>
 	</div>
 	<p><em>AgentCamp Guanajuato: el primer evento en el mundo que conecta creadores y aceleradores de IA para transformar la industria.</em></p>
 </div>
