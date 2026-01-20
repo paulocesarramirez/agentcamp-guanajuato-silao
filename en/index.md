@@ -30,7 +30,7 @@ permalink: /en/
 		<blockquote>"This event paves the way for experimentation on AI, something already necessary for many companies."</blockquote>
 	</div>
 	<div class="highlight-box">
-		<p><strong>More than 80% of attendees would recommend us!</strong> Thank you for trusting AgentCamp. (NPS +84)</p>
+		<p><strong>87% of attendees would recommend us!</strong> Thank you for trusting AgentCamp. (NPS=87)</p>
 	</div>
 	<p><em>AgentCamp Guanajuato: the first event in the world that connects AI creators and accelerators to transform the industry.</em></p>
 </div>
