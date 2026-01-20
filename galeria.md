@@ -20,7 +20,7 @@ permalink: /galeria.html
 	<ul>
 		<li><strong>Primer evento en su tipo a nivel mundial:</strong> "AgentCamp Guanajuato es pionero en reunir creadores y aceleradores de IA en un mismo espacio para impulsar innovación empresarial."</li>
 		<li><strong>Impacto en la comunidad:</strong> "El evento está generando una comunidad activa que busca colaboración, mentorías y talleres prácticos."</li>
-		<li><strong>Alta satisfacción:</strong> "Con un NPS de +84, los asistentes recomiendan ampliamente este tipo de encuentros."</li>
+		<li><strong>Alta satisfacción:</strong> "Con un NPS de 87, los asistentes recomiendan ampliamente este tipo de encuentros."</li>
 		<li><strong>Demanda clara:</strong> "Los participantes solicitan más talleres prácticos, contenido previo y espacios para networking."</li>
 	</ul>
 </div>
