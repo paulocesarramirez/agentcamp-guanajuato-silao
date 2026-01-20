@@ -20,7 +20,7 @@ permalink: /en/gallery.html
 	<ul>
 		<li><strong>First event of its kind worldwide:</strong> "AgentCamp Guanajuato is pioneering in bringing together AI creators and accelerators in the same space to drive business innovation."</li>
 		<li><strong>Community impact:</strong> "The event is generating an active community seeking collaboration, mentoring, and practical workshops."</li>
-		<li><strong>High satisfaction:</strong> "With an NPS of +84, attendees highly recommend this type of encounters."</li>
+		<li><strong>High satisfaction:</strong> "With an NPS of 87, attendees highly recommend this type of encounters."</li>
 		<li><strong>Clear demand:</strong> "Participants request more practical workshops, prior content, and networking spaces."</li>
 	</ul>
 </div>
